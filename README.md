@@ -1,5 +1,6 @@
 # Data Sciece Desafío de Tripulaciones
-![img](./img/Step%20By%20Step%20Decluttering%20Process%20Graph%20Instagram%20Post%20(1).jpg)
+![img](./img/Step%20By%20Step%20Decluttering%20Process%20Graph%20Instagram%20Post%20(1).jpg)![readme img](https://github.com/jaterub/Weeheat-App/assets/117780949/29328c7b-1950-4011-926a-0610e74dbc7c)
+
 
 # El reto del desafío de tripulaciones trataba de dar una solución a los problemas que puede atravesar un turista que viene a Madrid en épocas y momentos de mucho calor.  
 
