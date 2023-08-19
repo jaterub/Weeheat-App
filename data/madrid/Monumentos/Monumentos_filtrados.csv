@@ -1,0 +1,763 @@
+,TIPO,NOMBRE,DIRECCION,DESCRIPCION,LATITUD,LONGITUD
+0,Monumentos,Abogados Laboristas,C Atocha 55,"Elemento conmemorativo, Lápida",40.41291066085913,-3.70001683012674
+1,Monumentos,Abstracta I,No disponible,Escultura conceptual o abstracta,40.42174556328786,-3.6622930226849992
+2,Monumentos,Abstracta II,No disponible,Escultura conceptual o abstracta,40.4219619708435,-3.6622597814331255
+3,Monumentos,Abundancia,CALLE GUZMAN EL BUENO 137,Grupo Escultórico,40.44420091117868,-3.712595448820414
+4,Monumentos,Academia de Farmacia,C Farmacia 9,"Elemento conmemorativo, Lápida",40.42396655835703,-3.69971884411894
+5,Monumentos,Adhesión de España a la Comunidad Europea,PLAZA PROVINCIA 1,"Elemento conmemorativo, Lápida",40.41471076984459,-3.705871508121933
+6,Monumentos,Agustín de Foxá,C Ibiza 1,"Elemento conmemorativo, Lápida",40.418525835938645,-3.6784335956993255
+7,Monumentos,Agustín Lara,C Sombrerete 15,Estatua,40.40804163281316,-3.7036670070208766
+8,Monumentos,AICO,Pza Colón N/A o N/D,"Elemento conmemorativo, Lápida",40.42473041132888,-3.6895416226062423
+9,Monumentos,Al Libro,Pº Recoletos N/A o N/D,Grupo Escultórico,40.42348808542784,-3.690896360408497
+10,Monumentos,Al otro lado del muro,Pº Castellana 41,Escultura conceptual o abstracta,40.43308609425179,-3.687304374990959
+11,Monumentos,Alberto Aguilera,CALLE MAGDALENA 6,"Elemento conmemorativo, Lápida",40.41236475188858,-3.7028056847304582
+12,Monumentos,Alejandro Busuioceanu,C General Pardiñas 32,"Elemento conmemorativo, Lápida",40.42653481671234,-3.678443331935348
+13,Monumentos,Alejandro Muñoz Revenga,CALLE MELENDEZ VALDES 1,"Elemento conmemorativo, Lápida",40.432796826299686,-3.709246187769124
+14,Monumentos,Alfonso R. Castelao,No disponible,"Elemento conmemorativo, Lápida",40.43550256599663,-3.6606830324377992
+15,Monumentos,Alfonso VI,No disponible,Estatua,40.41973554356221,-3.7139260638011327
+16,Monumentos,Alfonso VIII,No disponible,Estatua,40.41988883272301,-3.71390410926712
+17,Monumentos,Alfonso X El Sabio,PASEO RECOLETOS 20,Estatua,40.42300350744837,-3.690836475609272
+18,Monumentos,Alférez Provisional,CALLE FELIPE IV 1,"Elemento conmemorativo, Lápida",40.41534345623286,-3.692451639713872
+19,Monumentos,Almudena,C Castelló 77,Escultura conceptual o abstracta,40.43093303716218,-3.681199102845808
+20,Monumentos,Alonso I,PLAZA ORIENTE 1,Estatua,40.4176388210189,-3.711628758086704
+21,Monumentos,Alonso I El Batallador,Pº República Argentina N/A o N/D,Estatua,40.41673458392933,-3.685806028277646
+22,Monumentos,Alonso II,Pza Oriente N/A o N/D,Estatua,40.41771090053895,-3.712077658241268
+23,Monumentos,Alonso III,Pza Oriente N/A o N/D,Estatua,40.418792785930165,-3.711947617297519
+24,Monumentos,Alonso V,Pza Oriente N/A o N/D,Estatua,40.41882591552657,-3.712419459140926
+25,Monumentos,Altar Parque de Roma,C Juan Esplandiú N/A o N/D,"Elemento conmemorativo, Lápida",40.41580670295219,-3.662623751583081
+26,Monumentos,Amado Nervo,C Bailén 15,"Elemento conmemorativo, Lápida",40.41983268247336,-3.7127837041201888
+27,Monumentos,Amigos,Pza Alfredo Mahou de la Fuente N/A o N/D,Grupo Escultórico,40.43316202971123,-3.685135819634701
+28,Monumentos,América,CALLE GUZMAN EL BUENO 133,Escultura conceptual o abstracta,40.44298464158624,-3.7126774084733696
+29,Monumentos,Andrés Eloy Blanco,Pº Venezuela N/A o N/D,Estatua,40.41559090108321,-3.68268271082356
+30,Monumentos,Andrómaca,PASEO RECOLETOS 1,Estatua,40.4201273588685,-3.693306839089955
+31,Monumentos,Antigua Fuente de las Delicias,No disponible,"Fuente, Estanque, Lámina de agua",40.43001266940232,-3.669105800700405
+32,Monumentos,Antigua Iglesia y Hospital del Buen Suceso,No disponible,"Elemento conmemorativo, Lápida",40.41676929451718,-3.702532081873442
+33,Monumentos,Antigua pastelería del Pozo,C Pozo 8,"Elemento conmemorativo, Lápida",40.41625481659995,-3.7012066011312754
+34,Monumentos,"Antonia Mercé, la Argentina",C Ave María 8,"Elemento conmemorativo, Lápida",40.41165634023262,-3.700357414359624
+35,Monumentos,Antonio Bienvenida,C Alcalá 231,Grupo Escultórico,40.431574548888406,-3.662271547166129
+36,Monumentos,Antonio Bienvenida,C Alcalá 231,"Elemento conmemorativo, Lápida",40.43156128329791,-3.6630141592108862
+37,Monumentos,Antonio Cánovas del Castillo,Pza Marina Española N/A o N/D,Estatua,40.42093047357748,-3.711534008918246
+38,Monumentos,Antonio Machado,CALLE GENERAL ARRANDO 4,"Elemento conmemorativo, Lápida",40.43162482258305,-3.696805326523154
+39,Monumentos,Antonio Maura,C Antonio Maura 18,"Elemento conmemorativo, Lápida",40.4164135338355,-3.6897985288705177
+40,Monumentos,Antonio Mingote,Pza Cristino Martos 5,"Elemento conmemorativo, Lápida",40.42536059710678,-3.711910767925478
+41,Monumentos,Antonio Paso Cano,C Apodaca 9,"Elemento conmemorativo, Lápida",40.42740529401708,-3.7001670894678127
+42,Monumentos,Antonio Zozaya,Pza General Vara del Rey 14,"Elemento conmemorativo, Lápida",40.40965607152118,-3.707797037508429
+43,Monumentos,Armando Palacio Valdés,CALLE MALDONADO 25,"Elemento conmemorativo, Lápida",40.433928351058015,-3.6823188457332994
+44,Monumentos,Artieda y Labiano,C Navas de Tolosa 10,"Elemento conmemorativo, Lápida",40.419237264967286,-3.707048749464255
+45,Monumentos,Ataulfo,Pza Oriente N/A o N/D,Estatua,40.41773451270585,-3.7126319020401
+46,Monumentos,Atentado boda real Alfonso XIII,C Mayor 79,Grupo Escultórico,40.41506931751636,-3.71239162265991
+47,Monumentos,Atentados 11-M,Pza Puerta del Sol 7,"Elemento conmemorativo, Lápida",40.41657337917506,-3.703638015095079
+48,Monumentos,Augusto d'Halmar,CALLE LORETO Y CHICOTE 8,"Elemento conmemorativo, Lápida",40.42164752630175,-3.7041025189132055
+49,Monumentos,Ave Fénix,PASEO CASTELLANA 33,Grupo Escultórico,40.432766597945104,-3.6890240827986474
+50,Monumentos,Avenida Reyes Católicos,Pza San Francisco el Grande 1,"Elemento conmemorativo, Lápida",40.41031981667346,-3.7141329828387697
+51,Monumentos,Azorín,C Zorrilla 21,"Elemento conmemorativo, Lápida",40.4168633343092,-3.6959205654576346
+52,Monumentos,Azorín,Gta Azorín N/A o N/D,Estatua,40.4148375086769,-3.716373054740244
+53,Monumentos,Baltasar Bachero,C Salitre 34,"Elemento conmemorativo, Lápida",40.40913294250629,-3.6990112646483055
+54,Monumentos,Barrendero madrileño,Pza Jacinto Benavente N/A o N/D,Estatua,40.41453753590468,-3.703605020727631
+55,Monumentos,Batalla de Lepanto,C Lepanto 2,"Elemento conmemorativo, Lápida",40.41715440847653,-3.71174175449834
+56,Monumentos,Beata Maria Ana de Jesús,C Valverde 15,"Elemento conmemorativo, Lápida",40.4214480557125,-3.702026727916268
+57,Monumentos,Berenguela,Pº República Argentina N/A o N/D,Estatua,40.41697753391118,-3.6858556431608087
+58,Monumentos,Bernardino de Obregón,C Bernardino Obregón 1,"Elemento conmemorativo, Lápida",40.40506034008363,-3.700583665576658
+59,Monumentos,Bernardo López García,C Bernardo López Garcia 9,"Elemento conmemorativo, Lápida",40.42639109099532,-3.7098821991409614
+60,Monumentos,Berruguete,C Serrano 13,Estatua,40.4232307014805,-3.688736505936616
+61,Monumentos,Blanca de los Ríos,C Jorge Juan 7,"Elemento conmemorativo, Lápida",40.42397062888767,-3.687022972395223
+62,Monumentos,Botica de José Ortega Hernández,C Montera 17,"Elemento conmemorativo, Lápida",40.417939178235024,-3.702744632492885
+63,Monumentos,Botica de la Reina Madre,C Mayor 59,"Elemento conmemorativo, Lápida",40.41565330462039,-3.709722187008997
+64,Monumentos,Bravo Murillo,CALLE BRAVO MURILLO 49,Estatua,40.43406413409929,-3.704544691262899
+65,Monumentos,Bárbara de Braganza,Pza Villa de París N/A o N/D,Estatua,40.425189046340655,-3.6926938182485287
+66,Monumentos,Cabo Luis Noval,No disponible,Estatua,40.41916111618981,-3.712116523358495
+67,Monumentos,Calderón de la Barca,C Mayor 61,"Elemento conmemorativo, Lápida",40.41558901527422,-3.7099218862595302
+68,Monumentos,Calle de Milaneses,C Milaneses 1,"Elemento conmemorativo, Lápida",40.41587073747135,-3.70952409608776
+69,Monumentos,Calle de Santiago,C Santiago 6,"Elemento conmemorativo, Lápida",40.41628273911103,-3.709917390841433
+70,Monumentos,Callejón de Jorge Juan,C Jorge Juan 14,"Elemento conmemorativo, Lápida",40.42340904345399,-3.686015268012112
+71,Monumentos,Camilo José Cela,C Claudio Coello 91,"Elemento conmemorativo, Lápida",40.43072519566812,-3.6858773991317
+72,Monumentos,Camilo José Cela,C Alcalá 185,"Elemento conmemorativo, Lápida",40.42753812217486,-3.670154062267788
+73,Monumentos,Campana de La Paz,Pza San Andrés 1,"Elemento conmemorativo, Lápida",40.41223789315198,-3.711348152115357
+74,Monumentos,Campoamor,C Recoletos 17,"Elemento conmemorativo, Lápida",40.42163198333016,-3.689427469324901
+75,Monumentos,Canalejas y Méndez,Pza Puerta del Sol 6,"Elemento conmemorativo, Lápida",40.41661263973816,-3.703108012143877
+76,Monumentos,Capiteles Paseo del Prado,Pº Prado N/A o N/D,Elemento de ornamentación,40.41028013463819,-3.6925173560190094
+77,Monumentos,Capitán Ángel Melgar,No disponible,Estatua,40.41754337324238,-3.7129481367276185
+78,Monumentos,Cardenal Cisneros,CALLE CARDENAL CISNEROS 2,"Elemento conmemorativo, Lápida",40.42970167773532,-3.701481122740245
+79,Monumentos,Carlos Arniches,C Carlos Arniches 31,"Elemento conmemorativo, Lápida",40.407059249045965,-3.7081587467204766
+80,Monumentos,Carlos Arniches,CALLE MONTE ESQUINZA 1,"Elemento conmemorativo, Lápida",40.42631690961503,-3.6924528821325664
+81,Monumentos,Carlos I de España y V de Alemania,Pº República Argentina N/A o N/D,Estatua,40.41661542060194,-3.68766715478062
+82,Monumentos,Carlos Ibáñez de Ibero,CALLE GENERAL IBAÑEZ DE IBERO 1,"Elemento conmemorativo, Lápida",40.44636593281892,-3.710256587238363
+83,Monumentos,Carlos II,Pº República Argentina N/A o N/D,Estatua,40.416635680284834,-3.6872901788795778
+84,Monumentos,Carlos III,Pza Puerta del Sol N/A o N/D,Estatua,40.416988270957496,-3.7035598283891886
+85,Monumentos,Carlos Lezcano,C Rollo 3,"Elemento conmemorativo, Lápida",40.41448310260679,-3.7110299859731626
+86,Monumentos,Carlos Linneo (Carl von Linne),Pza Murillo 2,Estatua,40.411241739202566,-3.6898989354507767
+87,Monumentos,Carlos y Guillermo Fernández-Shaw,C Carlos y Guillermo Fernández Shaw N/A o N/D,"Elemento conmemorativo, Lápida",40.40621751413108,-3.669494716473774
+88,Monumentos,Carnicer Betllé Ramón,CALLE SANTA ISABEL 38,"Elemento conmemorativo, Lápida",40.41038261713785,-3.697831826169733
+89,Monumentos,Carolus III Hispaniarum Rex,No disponible,Estatua,40.41991964111917,-3.713291484660253
+90,Monumentos,Casa de la Panadería,Pza Mayor 27,"Elemento conmemorativo, Lápida",40.41576547335895,-3.707589958013205
+91,Monumentos,Casa de la Panadería,Pza Mayor 27,"Elemento conmemorativo, Lápida",40.41578608628353,-3.707165849639369
+92,Monumentos,Casa del Pescador del Retiro,Pº Duque de Fernán Núñez N/A o N/D,Edificación singular,40.42057388670932,-3.6809885110698017
+93,Monumentos,Castilla,CALLE CASTELLO 77,Escultura conceptual o abstracta,40.43122422239439,-3.681123764267725
+94,Monumentos,Cavanilles,Pza Murillo 2,Estatua,40.41027142480535,-3.690961537106662
+95,Monumentos,Cañas silbadoras,CALLE CEA BERMUDEZ 50,Escultura conceptual o abstracta,40.4392394260177,-3.7132167894035177
+96,Monumentos,Cecilio Rodríguez,No disponible,Estatua,40.41329665394614,-3.6775678151430817
+97,Monumentos,Centenario de la primera sesión de cine,Ctra San Jerónimo 32,"Elemento conmemorativo, Lápida",40.41650231207727,-3.699016804459951
+98,Monumentos,Centro Tercera Edad,C Jerte N/A o N/D,"Elemento conmemorativo, Lápida",40.411125260991454,-3.715001873019847
+99,Monumentos,Cervantes,Pº Recoletos 20,Estatua,40.42366347102459,-3.690190864784378
+100,Monumentos,Chueca,Pº Uruguay N/A o N/D,Estatua,40.41100559296495,-3.681104196857096
+101,Monumentos,Cilindros en el espacio,PASEO CASTELLANA 1,Escultura conceptual o abstracta,40.42593095487881,-3.6907524317049822
+102,Monumentos,Cinematógrafo,CARRERA SAN JERONIMO 32,"Elemento conmemorativo, Lápida",40.41649063167977,-3.69903000832046
+103,Monumentos,Clara Campoamor,Pza Guardias de Corps N/A o N/D,Estatua,40.42705402271578,-3.7104903956023865
+104,Monumentos,Claudio Moyano,C Claudio Moyano N/A o N/D,Estatua,40.40940997862946,-3.691895581068744
+105,Monumentos,Claudio Sánchez Albornoz,PLAZA CELENQUE 1,"Elemento conmemorativo, Lápida",40.417362039767006,-3.706063527703705
+106,Monumentos,Colegio Mayor San Pablo,CALLE ISAAC PERAL 58,"Elemento conmemorativo, Lápida",40.44216337259181,-3.7186016905372776
+107,Monumentos,Columnas de la casa de las Siete Chimeneas,C Infantas 31,Elemento de ornamentación,40.42012092726248,-3.696531722885812
+108,Monumentos,Columnas del Paseo del Prado,Pº Prado N/A o N/D,Elemento de ornamentación,40.41844858091697,-3.692978298440262
+109,Monumentos,Columna-pedestal de los jardines de Cecilio Rodríguez,No disponible,Elemento de ornamentación,40.414151358609466,-3.677764972697376
+110,Monumentos,Concesa de la Maza,C Claudio Coello 88,"Elemento conmemorativo, Lápida",40.43116794002204,-3.685657897265769
+111,Monumentos,Conde de Peñalver,C Gran Vía 2,"Elemento conmemorativo, Lápida",40.41918815125242,-3.6973354321681056
+112,Monumentos,Conrado del Campo,Ctra Aduana 16,"Elemento conmemorativo, Lápida",40.41843278782898,-3.700085849871293
+113,Monumentos,Constitución de 1978,PASEO CASTELLANA 1,"Elemento conmemorativo, Lápida",40.42593095487881,-3.6907524317049822
+114,Monumentos,Consuelo Rubio,C O'Donnell 11,"Elemento conmemorativo, Lápida",40.42186980272268,-3.679693126869741
+115,Monumentos,Corral de Comedias,Pza La Corrala N/A o N/D,"Elemento conmemorativo, Lápida",40.40805701974537,-3.70261826315468
+116,Monumentos,Corredera Baja de San Pablo,Cdra Baja San Pablo 28,"Elemento conmemorativo, Lápida",40.42346287303577,-3.7025545639000152
+117,Monumentos,Cristóbal Colón,Pza Colón N/A o N/D,Estatua,40.42523854822379,-3.690442733466315
+118,Monumentos,Cruceiro de la plaza de Galicia,Pza Galicia N/A o N/D,Elemento de ornamentación,40.419947886459376,-3.683257190665345
+119,Monumentos,Cruceiro del parque de Breogán,No disponible,Elemento de ornamentación,40.436170072479904,-3.660536291550139
+120,Monumentos,Cruz Puerta Cerrada,Pza Puerta Cerrada N/A o N/D,"Elemento conmemorativo, Lápida",40.41378021930392,-3.708123124122962
+121,Monumentos,Cuerpo de Bomberos,C Montera 31,"Elemento conmemorativo, Lápida",40.41873450206111,-3.7023285651027273
+122,Monumentos,Cátedra de taquigrafía española,C Marqués de Cubas 15,"Elemento conmemorativo, Lápida",40.41707329543314,-3.695463035197995
+123,Monumentos,Daniel Urrabieta Vierge,C Huertas 28,"Elemento conmemorativo, Lápida",40.41351405995104,-3.698561570341084
+124,Monumentos,Daniel Vázquez Díaz,C María de Molina 66,"Elemento conmemorativo, Lápida",40.43726580306655,-3.678232843651938
+125,Monumentos,Daoiz y Velarde,Pza Dos de Mayo N/A o N/D,"Elemento conmemorativo, Lápida",40.42668629471631,-3.7043328301334046
+126,Monumentos,Daoiz y Velarde y Arco de Monteleón,Pza Dos de Mayo N/A o N/D,Grupo Escultórico,40.42694011112609,-3.704076125733789
+127,Monumentos,Derechos del Niño,Pº Recoletos N/A o N/D,"Elemento conmemorativo, Lápida",40.42374095694876,-3.690792854064404
+128,Monumentos,Diana,Pº Uruguay N/A o N/D,Estatua,40.41883417374887,-3.6826801315977047
+129,Monumentos,Diego de Silva Velázquez,C Juan Bravo N/A o N/D,Estatua,40.43282130489961,-3.683340316324859
+130,Monumentos,Dimitar Dimov,Pza Lealtad 2,"Elemento conmemorativo, Lápida",40.41621111408708,-3.6920123926804185
+131,Monumentos,Dinastía torera Bienvenida,C Príncipe de Vergara 3,"Elemento conmemorativo, Lápida",40.4230271157001,-3.680518151893936
+132,Monumentos,Diosa Hera,Pº Duque de Fernán Núñez N/A o N/D,Estatua,40.416526576315135,-3.6798397318576814
+133,Monumentos,Doctor Fleming,CALLE ALCALA 231,Grupo Escultórico,40.430233472596406,-3.664690887998065
+134,Monumentos,Doctor Gómez Ulla,C Doctor Gómez Ulla 2,"Elemento conmemorativo, Lápida",40.42873857357535,-3.6682089936140234
+135,Monumentos,Dodecaedro-Éter,Pº Melancólicos N/A o N/D,Escultura conceptual o abstracta,40.40835056162554,-3.719344922699494
+136,Monumentos,Dos columnas en la calle Conde Duque,C Conde Duque N/A o N/D,Elemento de ornamentación,40.42874330779235,-3.7097418848089054
+137,Monumentos,Dos columnas en los jardines de Cecilio Rodríguez,No disponible,Elemento de ornamentación,40.41410292913856,-3.678342025490112
+138,Monumentos,Dos fuentes circulares de la Fundación BBVA,Pº Recoletos N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42142232345363,-3.6913467365689225
+139,Monumentos,Dos Niños,C Portal de Belén N/A o N/D,Grupo Escultórico,40.412233616002936,-3.674480959814064
+140,Monumentos,Duque de Alba y de Berwick,C Princesa 20,"Elemento conmemorativo, Lápida",40.42674361206256,-3.712620883424545
+141,Monumentos,Décollage naval,C Marqués de Villamagna N/A o N/D,Escultura conceptual o abstracta,40.42952059015248,-3.688470572430672
+142,Monumentos,Día y Noche,No disponible,Grupo Escultórico,40.40607338451187,-3.689421897582009
+143,Monumentos,Edificio de la Beneficiencia,C Ternera 2,"Elemento conmemorativo, Lápida",40.419228328588055,-3.707036868519804
+144,Monumentos,Eduardo Alfonso,C Arenal 26,"Elemento conmemorativo, Lápida",40.41777918325024,-3.708294708394733
+145,Monumentos,Eduardo Marquina,C Barquillo 7,"Elemento conmemorativo, Lápida",40.42040473245866,-3.6957802437974414
+146,Monumentos,Eduardo Rosales,CALLE VALGAME DIOS 2,"Elemento conmemorativo, Lápida",40.42225144093059,-3.6965856485584423
+147,Monumentos,Eduardo Rosales,CALLE LIBERTAD 23,"Elemento conmemorativo, Lápida",40.421493119599134,-3.697412637401013
+148,Monumentos,Educación de la Infancia,PLAZA SALESAS 1,Grupo Escultórico,40.42428273262809,-3.694874905668776
+149,Monumentos,El Abrazo,Pza Antón Martín N/A o N/D,Grupo Escultórico,40.41239209144543,-3.699363215525605
+150,Monumentos,El Ángel Caído,Gta Ángel Caído N/A o N/D,Estatua,40.41104208709156,-3.682554238974761
+151,Monumentos,El Encierro,C Julio Camba N/A o N/D,Grupo Escultórico,40.431654354969695,-3.664064345434864
+152,Monumentos,El lector,C San Justo N/A o N/D,Estatua,40.41403192602032,-3.7096815781345738
+153,Monumentos,El Pueblo Español tiene un camino que conduce a una estrella,C Sánchez Bustillo N/A o N/D,Escultura conceptual o abstracta,40.40875801495883,-3.6939513782964983
+154,Monumentos,El Racing Club a los héroes de África,PLAZA CHAMBERI 4,"Elemento conmemorativo, Lápida",40.43305957226368,-3.6971236062808535
+155,Monumentos,El Vecino Curioso,C Almudena N/A o N/D,Estatua,40.4152187560347,-3.712994319712841
+156,Monumentos,Elemento mecánico ferroviario,C Arganda 9,Elemento de ornamentación,40.40048694546989,-3.705980515830345
+157,Monumentos,Eloy Gonzalo 'Cascorro',Pza Cascorro N/A o N/D,Estatua,40.41022670656216,-3.707296225893901
+158,Monumentos,Embarcadero del Estanque del Retiro,Pº Estanque (Parque del Retiro) N/A o N/D,Edificación singular,40.418310166004126,-3.684454707612634
+159,Monumentos,Emilia Pardo Bazán,C Princesa N/A o N/D,Estatua,40.42630982623611,-3.71284028886576
+160,Monumentos,Enrique Carrión,C Gran Vía 41,"Elemento conmemorativo, Lápida",40.42049225133877,-3.706602171901796
+161,Monumentos,Enrique Herreros,CALLE CEA BERMUDEZ 2,Estatua,40.43886167817721,-3.705715607409165
+162,Monumentos,Enrique II,Pº República Argentina N/A o N/D,Estatua,40.41687869965985,-3.687328012742586
+163,Monumentos,Enrique Jardiel Poncela,C Augusto Figueroa 29,"Elemento conmemorativo, Lápida",40.42242501281427,-3.69839440827648
+164,Monumentos,Enrique Tierno Galván,Pº Duque de Fernán Núñez N/A o N/D,Escultura conceptual o abstracta,40.41690451816765,-3.679914257964233
+165,Monumentos,Enrique Tierno Galván,No disponible,Estatua,40.393656142593485,-3.685336172548901
+166,Monumentos,Escosura,CALLE RIOS ROSAS 21,Estatua,40.44209227424258,-3.700373464615154
+167,Monumentos,Escudo de Madrid en mosaico,C Segovia N/A o N/D,Elemento de ornamentación,40.41422506311017,-3.71343171822365
+168,Monumentos,Escudo de Madrid en piedra calle Segovia,C Segovia 21,Elemento de ornamentación,40.413720953136334,-3.71336746182671
+169,Monumentos,Escuela de Estudios Superiores del Magisterio,C Montalbán 12,"Elemento conmemorativo, Lápida",40.41783750929659,-3.689706987744792
+170,Monumentos,Escultura ecuestre alegórica I Jardines de Sabatini,No disponible,Estatua,40.42035472377147,-3.714321599596437
+171,Monumentos,Escultura ecuestre alegórica II Jardines de Sabatini,No disponible,Estatua,40.42032218422668,-3.713755451789632
+172,Monumentos,Escultura en el Consejo Económico y Social,C Huertas 73,Escultura conceptual o abstracta,40.41304841396701,-3.69510336522463
+173,Monumentos,Esculturas gemelas de niños,CALLE SANTISIMA TRINIDAD 37,Grupo Escultórico,40.438157283286685,-3.701196886214348
+174,Monumentos,Esfinges,C Serrano 13,Grupo Escultórico,40.42338482879358,-3.688573044277186
+175,Monumentos,Estanque central Sabatini,No disponible,"Fuente, Estanque, Lámina de agua",40.419959954022325,-3.714058098751212
+176,Monumentos,Estanque circular de la antigua Casa de Fieras,No disponible,"Fuente, Estanque, Lámina de agua",40.41555788159282,-3.679110989620168
+177,Monumentos,Estanque circular en el Paseo de la Castellana,Pº Castellana 42,"Fuente, Estanque, Lámina de agua",40.43368587553847,-3.687947137638115
+178,Monumentos,Estanque circular Nuevos Ministerios,PASEO CASTELLANA 67,"Fuente, Estanque, Lámina de agua",40.44433427285205,-3.691993325190449
+179,Monumentos,Estanque circular Sabatini,No disponible,"Fuente, Estanque, Lámina de agua",40.42092444005092,-3.713973995352851
+180,Monumentos,Estanque de las Campanillas,Pº Paraguay N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41589581396753,-3.685962527190167
+181,Monumentos,Estanque del jardín de Vivaces,No disponible,"Fuente, Estanque, Lámina de agua",40.41012606609325,-3.677465300065819
+182,Monumentos,Estanque del Palacio de Cristal,No disponible,"Fuente, Estanque, Lámina de agua",40.41380564579256,-3.681403517609684
+183,Monumentos,Estanque Descubrimiento,Pza Colón N/A o N/D,"Fuente, Estanque, Lámina de agua",40.424746023229176,-3.688433676378956
+184,Monumentos,Estanque e isla ovalada del Parque del Retiro,No disponible,"Fuente, Estanque, Lámina de agua",40.41197594374296,-3.681550067146405
+185,Monumentos,Estanque grande del Retiro,Pº Estanque (Parque del Retiro) N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41715085868409,-3.683971477806366
+186,Monumentos,Estanque lineal en seis tramos del parque de las  Delicias,C Párroco Eusebio Cuenca N/A o N/D,"Fuente, Estanque, Lámina de agua",40.39696134032337,-3.690071305804791
+187,Monumentos,Estanque norte Nuevos Ministerios,PASEO CASTELLANA 67,"Fuente, Estanque, Lámina de agua",40.44433427285205,-3.691993325190449
+188,Monumentos,Estanque para patos de los jardines del Campo del Moro,No disponible,"Fuente, Estanque, Lámina de agua",40.417500428933074,-3.719878487615263
+189,Monumentos,Estanque para patos del parque Fuente del Berro,No disponible,"Fuente, Estanque, Lámina de agua",40.42308817341625,-3.6622472501767622
+190,Monumentos,Estanque pequeño de los jardines de Cecilio Rodríguez,No disponible,"Fuente, Estanque, Lámina de agua",40.4140517120797,-3.6778582648345863
+191,Monumentos,Estanque rectangular Nuevos Ministerios,PASEO CASTELLANA 67,"Fuente, Estanque, Lámina de agua",40.44433427285205,-3.691993325190449
+192,Monumentos,Estanque rectangular Vistillas,Pza Gabriel Miró N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41262981907358,-3.714994225336953
+193,Monumentos,Estanque rústico y puente de los jardines de Cecilio Rodríguez,No disponible,"Fuente, Estanque, Lámina de agua",40.41377382953955,-3.677619747324387
+194,Monumentos,Estanque Toledo-Acacias,No disponible,"Fuente, Estanque, Lámina de agua",40.40181285028107,-3.713064975961215
+195,Monumentos,Estanque óvalo del Retiro,Pº Panamá N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41906593779074,-3.680042103579967
+196,Monumentos,Estanques en cascada de los jardines de Cecilio Rodríguez,No disponible,"Fuente, Estanque, Lámina de agua",40.41428676283095,-3.677719185170575
+197,Monumentos,Estanques gemelos de la antigua Casa de Fieras,No disponible,"Fuente, Estanque, Lámina de agua",40.41467095012855,-3.678265223584779
+198,Monumentos,Estanques largos de los jardines de Cecilio Rodríguez,No disponible,"Fuente, Estanque, Lámina de agua",40.41347350776981,-3.678135336042064
+199,Monumentos,Estela de Venus,Pº Castellana 41,Escultura conceptual o abstracta,40.43275348140874,-3.687183090834124
+200,Monumentos,Estructura permutacional,Pº Castellana 41,Escultura conceptual o abstracta,40.43311417088938,-3.687127813560773
+201,Monumentos,Estructuración hiperpoliédrica del espacio,PASEO CASTELLANA 41,Escultura conceptual o abstracta,40.43491329886507,-3.689441908502898
+202,Monumentos,Eugenio d'Ors,Pza Cordón 2,"Elemento conmemorativo, Lápida",40.41414454844736,-3.710413524313653
+203,Monumentos,Eugenio d´Ors Rovira,Pº Prado N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41362606933988,-3.693423852103825
+204,Monumentos,Eurico,Pza Oriente N/A o N/D,Estatua,40.41773567494212,-3.712443320308865
+205,Monumentos,Eva Perón,Avda Francisco Silvela 4,Estatua,40.429739137554336,-3.669668973112901
+206,Monumentos,Fama,C Barceló N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42609649613704,-3.70057790646442
+207,Monumentos,Farolero madrileño,C Concepción Jerónima 15,Estatua,40.41396658434898,-3.705638132823516
+208,Monumentos,Fauno,No disponible,Estatua,40.40157768508294,-3.713215690528679
+209,Monumentos,Federico de Madrazo,C Los Madrazo 24,"Elemento conmemorativo, Lápida",40.417598552315056,-3.696505709231041
+210,Monumentos,Federico García Lorca,Pza Santa Ana N/A o N/D,Estatua,40.41476419560086,-3.70040142372502
+211,Monumentos,Federico García Lorca,C Alcalá 96,"Elemento conmemorativo, Lápida",40.424430869780174,-3.676194201964579
+212,Monumentos,Federico Romero Sarachaga,CALLE EL ESPA&amp;Ntilde;OLETO 23,"Elemento conmemorativo, Lápida",40.43126535988618,-3.694200146405517
+213,Monumentos,Felipe II,No disponible,Estatua,40.41975144920558,-3.714268068743975
+214,Monumentos,Felipe III,Pza Mayor N/A o N/D,Estatua,40.41539735232832,-3.707385727413197
+215,Monumentos,Felipe IV,Pza Oriente N/A o N/D,Estatua,40.41833175779973,-3.7122020764109696
+216,Monumentos,Felipe IV,C Méndez Núñez 1,Estatua,40.4158609202182,-3.6903115047286152
+217,Monumentos,Felipe Picatoste Rodríguez,Pza Cordón 3,"Elemento conmemorativo, Lápida",40.4141929207196,-3.709871853716179
+218,Monumentos,Ferenc Liszt,PLAZA CORTES 6,"Elemento conmemorativo, Lápida",40.41570562543985,-3.695093115648036
+219,Monumentos,Fernando de Castro,C Arenal 16,"Elemento conmemorativo, Lápida",40.4174236799352,-3.707501246384424
+220,Monumentos,Fernando Fresno,C Santa Isabel 28,"Elemento conmemorativo, Lápida",40.41098246109904,-3.698570749462138
+221,Monumentos,Fernando I,Pza Oriente N/A o N/D,Estatua,40.41884291549989,-3.7125846609181177
+222,Monumentos,Fernando III El Santo,No disponible,Estatua,40.42020223558045,-3.7142138986913062
+223,Monumentos,Fernando IV,Pº República Argentina N/A o N/D,Estatua,40.41682839862559,-3.688211524088621
+224,Monumentos,Fernando V El Católico,No disponible,Estatua,40.41990466560657,-3.714257901714999
+225,Monumentos,Fernando VI,Pza Villa de París N/A o N/D,Estatua,40.42534660560915,-3.693461684609889
+226,Monumentos,Fernán González 1er Conde Independiente de Castilla,Pza Oriente N/A o N/D,Estatua,40.41882635128095,-3.712348739846992
+227,Monumentos,Fernández Caballero Manuel,C Cervantes 34,"Elemento conmemorativo, Lápida",40.41427619531565,-3.696176787080877
+228,Monumentos,Fernández Valliciergo Vicente,C Ballesta 7,"Elemento conmemorativo, Lápida",40.42164607911503,-3.7035376263546262
+229,Monumentos,Florestán Aguilar,C Florestán Aguilar 1,"Elemento conmemorativo, Lápida",40.43054594113809,-3.67036076022004
+230,Monumentos,Fomento,PASEO CASTELLANA 67,Escultura conceptual o abstracta,40.44433427285205,-3.691993325190449
+231,Monumentos,Fortuna,CALLE GUZMAN EL BUENO 137,Grupo Escultórico,40.44420091117868,-3.712595448820414
+232,Monumentos,Francisco Alonso,CALLE ALCALA 1,Estatua,40.417217086707446,-3.702246784024105
+233,Monumentos,Francisco de Asis de Borbón,PASEO VIRGEN DEL PUERTO 1,Estatua,40.41884303920882,-3.719998772058356
+234,Monumentos,Francisco de Goya,C Alcalá N/A o N/D,Estatua,40.42486872125298,-3.675267304340858
+235,Monumentos,Francisco de Paula Martí Mora,Pº El Salvador N/A o N/D,Grupo Escultórico,40.419496057842544,-3.680435420294789
+236,Monumentos,Francisco de Quevedo y Villegas,C Huertas 43,"Elemento conmemorativo, Lápida",40.41348151379696,-3.697983700753655
+237,Monumentos,Francisco de Quevedo y Villegas,GLORIETA QUEVEDO 1,Grupo Escultórico,40.43304773137294,-3.704338607778009
+238,Monumentos,Francisco de Quevedo y Villegas,C Lope de Vega 17,"Elemento conmemorativo, Lápida",40.41375361792839,-3.6976800650647377
+239,Monumentos,Francisco Largo Caballero,PASEO CASTELLANA 1,Estatua,40.42593095487881,-3.6907524317049822
+240,Monumentos,Francisco Largo Caballero,PLAZA CHAMBERI 4,"Elemento conmemorativo, Lápida",40.43305957226368,-3.6971236062808535
+241,Monumentos,Francisco Navarro Ledesma,C Serrano 72,"Elemento conmemorativo, Lápida",40.4300980813354,-3.686802382043713
+242,Monumentos,Francisco Piquer,Pza Descalzas N/A o N/D,Estatua,40.41797341013827,-3.7059982474582585
+243,Monumentos,Francisco Tomás y Valiente,CALLE DOMENICO SCARLATTI 6,"Elemento conmemorativo, Lápida",40.44136939930756,-3.717050940189064
+244,Monumentos,Francisco Villaespesa,CALLE GALILEO 12,"Elemento conmemorativo, Lápida",40.43091853815551,-3.71033171269964
+245,Monumentos,Frascuelo,C Arenal 22,"Elemento conmemorativo, Lápida",40.41758525521781,-3.707597235737575
+246,Monumentos,Frases en pavimento urbano eje Museo del Prado- Palacio de Oriente,Pza Ángel 9,"Elemento conmemorativo, Lápida",40.41762241274892,-3.711817408992325
+247,Monumentos,Fray Francisco Cabezas,Pza San Francisco el Grande 1,"Elemento conmemorativo, Lápida",40.41072446942519,-3.714255119386815
+248,Monumentos,Fray Pedro Ponce de León,Pº Duque de Fernán Núñez N/A o N/D,Estatua,40.42027111743815,-3.6819166768312734
+249,Monumentos,Fuente Amanecer,Pza Amanecer en Méndez Álvaro N/A o N/D,"Fuente, Estanque, Lámina de agua",40.39902851287807,-3.684836805678578
+250,Monumentos,Fuente baja del parque Enrique Tierno Galván,No disponible,"Fuente, Estanque, Lámina de agua",40.39318106339244,-3.684930739029544
+251,Monumentos,Fuente Carlos Jiménez Díaz,PLAZA CRISTO REY 1,"Fuente, Estanque, Lámina de agua",40.43878101486947,-3.7171248394815817
+252,Monumentos,Fuente cascada del Museo al aire libre,Pº Castellana 41,"Fuente, Estanque, Lámina de agua",40.43298973356181,-3.686843591722476
+253,Monumentos,Fuente circular del parque Fuente del Berro,No disponible,"Fuente, Estanque, Lámina de agua",40.42294092958604,-3.66278805659076
+254,Monumentos,Fuente circular del parque María Eva Duarte de Perón,No disponible,"Fuente, Estanque, Lámina de agua",40.42942888935168,-3.668793496080871
+255,Monumentos,Fuente circular en la calle Gasómetro,Pº Doctor Vallejo Nájera s/n,"Fuente, Estanque, Lámina de agua",40.40234824612018,-3.7080386692403
+256,Monumentos,Fuente con canal  del parque Enrique Tierno Galván II,No disponible,"Fuente, Estanque, Lámina de agua",40.39403296474066,-3.685599219016461
+257,Monumentos,Fuente con canal del parque Enrique Tierno Galván I,No disponible,"Fuente, Estanque, Lámina de agua",40.393521573073095,-3.6852405449257777
+258,Monumentos,Fuente con escudo de Madrid,Pº Bolivia N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41982069204882,-3.68191212874135
+259,Monumentos,Fuente de Apolo,Pº Prado N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41722670862634,-3.693920512235174
+260,Monumentos,Fuente de Cabestreros,C Mesón de Paredes N/A o N/D,"Fuente, Estanque, Lámina de agua",40.40941828087731,-3.703952415893436
+261,Monumentos,Fuente de Cibeles,Pza Cibeles N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41933077691551,-3.693093437185058
+262,Monumentos,Fuente de Cupido de La Rosaleda,Pº Duque de Fernán Núñez N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41105459091566,-3.680432890481266
+263,Monumentos,Fuente de entrada a los Jardines Sabatini,Gta San Vicente N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42146982110401,-3.713189980431598
+264,Monumentos,Fuente de Isabel II o de los galápagos,PLAZA NICARAGUA 1,"Fuente, Estanque, Lámina de agua",40.41888994379542,-3.685332498113362
+265,Monumentos,Fuente de la Alcachofa,Pza Honduras N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41540160383906,-3.68422485909162
+266,Monumentos,Fuente de la antigua Embajada Británica,CALLE FERNANDO EL SANTO 16,"Fuente, Estanque, Lámina de agua",40.42805215748539,-3.6925099361791545
+267,Monumentos,Fuente de la Cebada,C Toledo N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41124703456592,-3.708391220008587
+268,Monumentos,Fuente de la Cruz Verde,Pza Cruz Verde N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41417195604418,-3.711816406452354
+269,Monumentos,Fuente de la Gaviota,No disponible,"Fuente, Estanque, Lámina de agua",40.41431954857871,-3.6782734816062783
+270,Monumentos,Fuente de la Puerta de la Independencia,Pº México N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41955219159853,-3.6876970570566696
+271,Monumentos,Fuente de la Salud del Retiro,No disponible,"Fuente, Estanque, Lámina de agua",40.42042814130036,-3.68431114650232
+272,Monumentos,Fuente de las Cuatro náyades o de las Sirenas,No disponible,"Fuente, Estanque, Lámina de agua",40.42001263008302,-3.686016128503733
+273,Monumentos,Fuente de los Caños del Peral,Pza Isabel II N/A o N/D,"Fuente, Estanque, Lámina de agua",40.417998035822606,-3.709334274678652
+274,Monumentos,Fuente de los Cuarteles de Daoiz y Velarde,Avda Ciudad de Barcelona 160,"Fuente, Estanque, Lámina de agua",40.40207243314151,-3.677384555336
+275,Monumentos,Fuente de los jardines Enrique Herreros,CALLE CEA BERMUDEZ 2,"Fuente, Estanque, Lámina de agua",40.43886167817721,-3.705715607409165
+276,Monumentos,Fuente de los Libros,Pza Dalí N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42399799241463,-3.6747281262399625
+277,Monumentos,Fuente de los Patos,Pº Prado N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41820528105207,-3.692987589271767
+278,Monumentos,Fuente de Mariano de Cavia,Pza Mariano de Cavia N/A o N/D,"Fuente, Estanque, Lámina de agua",40.40745145335411,-3.678817366345674
+279,Monumentos,Fuente de Orfeo,Pza Provincia N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41489986719542,-3.706237214108381
+280,Monumentos,Fuente de San Antón,C Hortaleza N/A o N/D,"Fuente, Estanque, Lámina de agua",40.424461852926335,-3.69826222688976
+281,Monumentos,Fuente de Santa Isabel,C Santa Isabel 48,"Fuente, Estanque, Lámina de agua",40.409393804622944,-3.696091116260337
+282,Monumentos,Fuente de Sevilla,GLORIETA SEVILLA N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42004278090423,-3.680873418964599
+283,Monumentos,Fuente de taza baja Jardín Príncipe de Anglona,Pza Paja N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41346173863042,-3.711573194776683
+284,Monumentos,Fuente de Tudescos,Pza Soledad Torres Acosta N/A o N/D,"Fuente, Estanque, Lámina de agua",40.421660893371424,-3.7055417089228015
+285,Monumentos,Fuente del Barrio del Niño Jesús,Pza Menéndez Pelayo N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41296906695523,-3.676586265805554
+286,Monumentos,Fuente del Berro,C Peñascales N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42321891011424,-3.66301475894553
+287,Monumentos,Fuente del Canal Isabel II,CALLE SANTA ENGRACIA 125,"Fuente, Estanque, Lámina de agua",40.439181291372726,-3.700773621276797
+288,Monumentos,Fuente del monumento a Isabel la Católica,PASEO CASTELLANA 1,"Fuente, Estanque, Lámina de agua",40.42593095487881,-3.6907524317049822
+289,Monumentos,Fuente del niño o fuente de Finlandia,Pº Prado N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41858081070881,-3.6934629336809657
+290,Monumentos,Fuente del palacio del marqués de Salamanca,Pº Recoletos N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42157532677167,-3.691371878553812
+291,Monumentos,Fuente del parque de Roma,No disponible,"Fuente, Estanque, Lámina de agua",40.416580392275975,-3.6612404824656486
+292,Monumentos,Fuente del parque Emir Mohamed I,No disponible,"Fuente, Estanque, Lámina de agua",40.4146312991556,-3.714756106087439
+293,Monumentos,Fuente del pequeño tritón,No disponible,"Fuente, Estanque, Lámina de agua",40.42018344186863,-3.686076801439248
+294,Monumentos,Fuente del río Lozoya,CALLE BRAVO MURILLO 49,"Fuente, Estanque, Lámina de agua",40.43935627177327,-3.704371546221416
+295,Monumentos,Fuente Egipcia,Pº Venezuela N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41572115428243,-3.683509102257356
+296,Monumentos,Fuente en cascada antigua Mariblanca,Pº Recoletos N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42066601104792,-3.6927770865945337
+297,Monumentos,Fuente en la avenida de Brasilia,Avda Brasilia N/A o N/D,"Fuente, Estanque, Lámina de agua",40.43844646494944,-3.661041991608827
+298,Monumentos,Fuente en la calle Argumosa,C Argumosa N/A o N/D,"Fuente, Estanque, Lámina de agua",40.40772418049624,-3.696580685755949
+299,Monumentos,Fuente en la calle Bravo Murillo,CALLE BRAVO MURILLO 1,"Fuente, Estanque, Lámina de agua",40.43406413409929,-3.704544691262899
+300,Monumentos,Fuente en la calle Brescia,C Brescia 1,"Fuente, Estanque, Lámina de agua",40.43663484651211,-3.664325572838543
+301,Monumentos,Fuente en la calle Canarias,C Canarias 52-54,"Fuente, Estanque, Lámina de agua",40.401546609138926,-3.690129909960441
+302,Monumentos,Fuente en la calle Espejo,C Espejo 8,"Fuente, Estanque, Lámina de agua",40.41686065537711,-3.709699512693807
+303,Monumentos,Fuente en la entrada principal del parque Fuente del Berro,No disponible,"Fuente, Estanque, Lámina de agua",40.42203154009497,-3.662696615791068
+304,Monumentos,Fuente en la plaza Beata María Ana de Jesús I,Pza Beata María Ana de Jesús N/A o N/D,"Fuente, Estanque, Lámina de agua",40.39406081350081,-3.69451923547792
+305,Monumentos,Fuente en la plaza Beata María Ana de Jesús II,Pza Beata María Ana de Jesús N/A o N/D,"Fuente, Estanque, Lámina de agua",40.39436469646439,-3.694922981621886
+306,Monumentos,Fuente en la plaza Conde Valle de Suchil,PLAZA CONDE DEL VALLE DE SUCHIL 1,"Fuente, Estanque, Lámina de agua",40.43026814826914,-3.707662842091588
+307,Monumentos,Fuente en la plaza del Mármol,Pza Mármol N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41733692694047,-3.67991861088905
+308,Monumentos,Fuente en la plaza del Rey,Pza Rey N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42021292894184,-3.696214407557173
+309,Monumentos,Fuente en los jardines Doña Concha Piquer,No disponible,"Fuente, Estanque, Lámina de agua",40.40208309264634,-3.7145290922710448
+310,Monumentos,Fuente Grande de Arganzuela,Pº Yeserías N/A o N/D,"Fuente, Estanque, Lámina de agua",40.39747111676663,-3.708564970809389
+311,Monumentos,Fuente Géminis,CALLE RAIMUNDO FERNANDEZ VILLAVERDE 34,"Fuente, Estanque, Lámina de agua",40.44579601864287,-3.698294649354976
+312,Monumentos,Fuente mural con escudo de Madrid,No disponible,"Fuente, Estanque, Lámina de agua",40.42182788130753,-3.660502075387203
+313,Monumentos,Fuente mural de la plaza Biombo,Pza Biombo 4,"Fuente, Estanque, Lámina de agua",40.415984905102896,-3.7114701206664815
+314,Monumentos,Fuente mural de la plaza de los Carros,Pza Carros N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41157126680711,-3.711341132468749
+315,Monumentos,Fuente mural en cascada,No disponible,"Fuente, Estanque, Lámina de agua",40.42322292578328,-3.6607396945497617
+316,Monumentos,Fuente mural en la calle Segovia,C Segovia 23,"Fuente, Estanque, Lámina de agua",40.41363043223164,-3.7134372243085623
+317,Monumentos,Fuente mural en la Cuesta de la Vega,Gta Boccherini N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41478929623968,-3.7154296146948833
+318,Monumentos,Fuente nueva de la Alcachofa,Pza Emperador Carlos V N/A o N/D,"Fuente, Estanque, Lámina de agua",40.4086973897612,-3.6920414956133136
+319,Monumentos,Fuente octogonal del palacio del marqués de Salamanca,Pº Recoletos N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42137601209444,-3.691558442293139
+320,Monumentos,Fuente ornamental General Maroto,Pza General Maroto N/A o N/D,"Fuente, Estanque, Lámina de agua",40.39364080613542,-3.698438635231043
+321,Monumentos,Fuente pilón Campo del Moro,PASEO BAJO DE LA VIRGEN DEL PUERTO 1,"Fuente, Estanque, Lámina de agua",40.41322737904346,-3.721626244435393
+322,Monumentos,Fuente pilón circular de la plaza de los Carros,Pza Carros N/A o N/D,"Fuente, Estanque, Lámina de agua",40.411724338194354,-3.7113545303820463
+323,Monumentos,Fuente pilón Cuesta Ciegos,Ctra Ciegos N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41370204386678,-3.714970215250616
+324,Monumentos,Fuente pilón Vistillas,Pza Gabriel Miró N/A o N/D,"Fuente, Estanque, Lámina de agua",40.412573727157664,-3.715323645873284
+325,Monumentos,Fuente Pirámides,Gta Pirámides N/A o N/D,"Fuente, Estanque, Lámina de agua",40.40090400184598,-3.7143516468241335
+326,Monumentos,Fuente Platerías Martínez,Pza Platería de Martínez N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41265862452866,-3.694003233427888
+327,Monumentos,Fuente plaza Alonso Martínez,PLAZA ALONSO MARTINEZ 1,"Fuente, Estanque, Lámina de agua",40.42802097267058,-3.696471403388118
+328,Monumentos,Fuente plaza de Chamberí,PLAZA CHAMBERI 1,"Fuente, Estanque, Lámina de agua",40.43286115363137,-3.697578292926501
+329,Monumentos,Fuente plaza de Olavide,PLAZA OLAVIDE 1,"Fuente, Estanque, Lámina de agua",40.432259903256565,-3.70107620429498
+330,Monumentos,Fuente plaza Juan Zorrilla,PLAZA JUAN ZORRILLA 1,"Fuente, Estanque, Lámina de agua",40.441765223823495,-3.704351175538283
+331,Monumentos,Fuente plaza San Juan de la Cruz,PLAZA SAN JUAN DE LA CRUZ 1,"Fuente, Estanque, Lámina de agua",40.440945026222586,-3.693010697595121
+332,Monumentos,Fuente Santa María de la Cabeza,Gta Santa María de la Cabeza N/A o N/D,"Fuente, Estanque, Lámina de agua",40.40104195705321,-3.6991514684363818
+333,Monumentos,Fuentecilla del Leal,C Toledo N/A o N/D,"Fuente, Estanque, Lámina de agua",40.40939133533817,-3.709833184867591
+334,Monumentos,Fuentecillas del Jardín Botánico,Pza Murillo 2,"Fuente, Estanque, Lámina de agua",40.41212892414102,-3.692194509968553
+335,Monumentos,Fuentecillas del Prado,Pº Prado N/A o N/D,"Fuente, Estanque, Lámina de agua",40.4123854405342,-3.69298681376318
+336,Monumentos,Fuentecita columna torsa. Jardín Príncipe de Anglona,No disponible,"Fuente, Estanque, Lámina de agua",40.41355233096037,-3.7114916443202848
+337,Monumentos,Fuentes de Embajadores,C Embajadores N/A o N/D,"Fuente, Estanque, Lámina de agua",40.4048760919237,-3.7027383892547663
+338,Monumentos,Fuentes de la Alcachofa del Parterre,Pº Parterre N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41505596798429,-3.6878162915280175
+339,Monumentos,Fuentes de la Bellota,No disponible,"Fuente, Estanque, Lámina de agua",40.41435800191264,-3.6778613385138414
+340,Monumentos,Fuentes de la Junta de la Arganzuela,Pº Chopera 10,"Fuente, Estanque, Lámina de agua",40.393144270009934,-3.698610247525609
+341,Monumentos,Fuentes de la plaza de Oriente,Pza Oriente N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41858181570797,-3.712558331511591
+342,Monumentos,Fuentes estrelladas del Jardín Botánico,Pza Murillo 2,"Fuente, Estanque, Lámina de agua",40.41156555313281,-3.68998474478548
+343,Monumentos,Fuentes gemelas de la Puerta del Sol,Pza Sol N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41695981083488,-3.703795271785213
+344,Monumentos,Fuentes gemelas de los jardines de Sabatini,No disponible,"Fuente, Estanque, Lámina de agua",40.42009842816923,-3.713517336203058
+345,Monumentos,Fuentes gemelas de los jardines del Campo del Moro,No disponible,"Fuente, Estanque, Lámina de agua",40.417340184700834,-3.7195703162803535
+346,Monumentos,Fuentes gemelas del parque Fuente del Berro,No disponible,"Fuente, Estanque, Lámina de agua",40.42302335770516,-3.6625531042808
+347,Monumentos,Fuentes Lavadero de los jardines de la Virgen del Puerto,Pº Ermita de la Virgen del Puerto N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41603669435192,-3.722008088963377
+348,Monumentos,Fuentes menores de Arganzuela,PASEO YESERIAS 1,"Fuente, Estanque, Lámina de agua",40.40060409154897,-3.712719914790534
+349,Monumentos,Fuentes neoclásicas en el Paseo del Prado,Pº Prado 4,"Fuente, Estanque, Lámina de agua",40.416542063385016,-3.693913478249776
+350,Monumentos,Fuentes piramidales,No disponible,"Fuente, Estanque, Lámina de agua",40.3998032083997,-3.7043471814465914
+351,Monumentos,Fuentes playa Arganzuela,Pº Yeserías N/A o N/D,"Fuente, Estanque, Lámina de agua",40.396632965909504,-3.708615101392793
+352,Monumentos,Fuente-estanque Paseo del Prado,Pº Prado 20,"Fuente, Estanque, Lámina de agua",40.413229129986,-3.6935140681611234
+353,Monumentos,Fundación de la Sociedad General Autores de España (SGAE),Ctra Fernanflor 10,"Elemento conmemorativo, Lápida",40.41670983530544,-3.695977918637559
+354,Monumentos,Félix Lope de Vega Carpio,C Huertas 49,"Elemento conmemorativo, Lápida",40.41337094414621,-3.696898212299392
+355,Monumentos,Félix Lope de Vega Carpio,Pza Encarnación N/A o N/D,Estatua,40.41960644893689,-3.711484696728996
+356,Monumentos,Galería mirador,Pza Gabriel Miró N/A o N/D,Edificación singular,40.41264324199275,-3.715736900198957
+357,Monumentos,Galicia en Madrid,Pza Jacinto Benavente N/A o N/D,"Elemento conmemorativo, Lápida",40.4147006924848,-3.7034417078735977
+358,Monumentos,Gaspar Melchor de Jovellanos,C Juanelo 18,"Elemento conmemorativo, Lápida",40.41119774497408,-3.706139579854579
+359,Monumentos,Gaspar Núñez de Arce,C Cruzada 4,"Elemento conmemorativo, Lápida",40.4165150983408,-3.711687869941691
+360,Monumentos,Gaviota,PASEO CASTELLANA 1,Escultura conceptual o abstracta,40.42593095487881,-3.6907524317049822
+361,Monumentos,General Francisco Morazán,Pza Honduras N/A o N/D,"Elemento conmemorativo, Lápida",40.41516696403622,-3.6842932023622583
+362,Monumentos,General Ibáñez de Ibero,C Jorge Juan 8,"Elemento conmemorativo, Lápida",40.423844159745954,-3.68708062665976
+363,Monumentos,General Martínez Campos,Pza Guatemala N/A o N/D,Estatua,40.4177992653548,-3.680960534297373
+364,Monumentos,General Vara de Rey y Héroes del Caney,Avda Ciudad de Barcelona 4,Grupo Escultórico,40.4059445498571,-3.6853311611661184
+365,Monumentos,Gerardo Diego,C Pío Baroja 4,Estatua,40.413076084198345,-3.675231910170486
+366,Monumentos,Germania,CALLE GUZMAN EL BUENO 133,Escultura conceptual o abstracta,40.44298464158624,-3.7126774084733696
+367,Monumentos,Gonzalo Ceballos,Pza Cordón 2,"Elemento conmemorativo, Lápida",40.414010362836585,-3.710258888887173
+368,Monumentos,Goya,C Felipe IV N/A o N/D,Estatua,40.41498271246368,-3.692541993533297
+369,Monumentos,Gregorio Marañón,PASEO CASTELLANA 53,"Elemento conmemorativo, Lápida",40.43831277117768,-3.6914463931724057
+370,Monumentos,Guillermo Fernández Shaw,C Claudio Coello 60,"Elemento conmemorativo, Lápida",40.42825568155715,-3.686052723306513
+371,Monumentos,Gundemaro,Pº República Argentina N/A o N/D,Estatua,40.41658537956355,-3.6881736870813953
+372,Monumentos,Gustavo Adolfo Bécquer,CALLE HUERTAS 20,"Elemento conmemorativo, Lápida",40.41379361833333,-3.700008659688615
+373,Monumentos,Gustavo Adolfo Bécquer,No disponible,Grupo Escultórico,40.42357176547589,-3.661179269992396
+374,Monumentos,Gómez de la Serna Ramon,C Guillermo Rolland 7,"Elemento conmemorativo, Lápida",40.42051934801246,-3.710999234728821
+375,Monumentos,Hércules y la Hidra de Lerna,Pº Duque de Fernán Núñez N/A o N/D,Grupo Escultórico,40.41217927022523,-3.6791477402624775
+376,Monumentos,Héroes del Dos de Mayo,C Bailén N/A o N/D,"Elemento conmemorativo, Lápida",40.41856677374049,-3.7135365161792215
+377,Monumentos,Héroes Populares del Dos de Mayo,Pza Puerta del Sol 8,"Elemento conmemorativo, Lápida",40.41656372507713,-3.703743996834816
+378,Monumentos,Herón,PLAZA COLON 2,Escultura conceptual o abstracta,40.425678496225984,-3.690922550805367
+379,Monumentos,Hexaedro o cubo-Tierra,No disponible,Escultura conceptual o abstracta,40.404533073753015,-3.716063455842343
+380,Monumentos,Hiberia,CALLE GUZMAN EL BUENO 133,Escultura conceptual o abstracta,40.44298464158624,-3.7126774084733696
+381,Monumentos,Hilarión Eslava y Emilio Arrieta,C San Quintín 8,"Elemento conmemorativo, Lápida",40.41961793280311,-3.712545688519894
+382,Monumentos,Hipólito Yrigoyen,Gta 12 de octubre de 1492 N/A o N/D,"Elemento conmemorativo, Lápida",40.4176825458034,-3.6824209613411374
+383,Monumentos,Hombre Sentado,Pza Paja N/A o N/D,Estatua,40.41270575310821,-3.71144736884946
+384,Monumentos,Homenaje a la Mar,Pº Venezuela N/A o N/D,Elemento de ornamentación,40.41593280699205,-3.682756887463322
+385,Monumentos,Humanistas Españoles,C Villa 2,"Elemento conmemorativo, Lápida",40.414355688204544,-3.712702332733704
+386,Monumentos,Hércules y el León de Nemea,Pº Duque de Fernán Núñez N/A o N/D,Grupo Escultórico,40.41693909639429,-3.680162133022464
+387,Monumentos,Héroes del Siete de Julio,C Mayor 24,"Elemento conmemorativo, Lápida",40.41579927053239,-3.707955702518987
+388,Monumentos,Icosaedro-Agua,Pº Doctor Vallejo Nájera N/A o N/D,Escultura conceptual o abstracta,40.40098016178486,-3.7048779530617857
+389,Monumentos,Iglesia de Montserrat,C San Bernardo 79,"Elemento conmemorativo, Lápida",40.4276822946642,-3.706465215979097
+390,Monumentos,Iglesia de San Juan Evangelista,Pza Venecia 1,"Elemento conmemorativo, Lápida",40.4412927129647,-3.662720647770223
+391,Monumentos,Iglesia Ntra. Sra. Buena Dicha,C Silva 21,"Elemento conmemorativo, Lápida",40.421621909298345,-3.706024601663225
+392,Monumentos,Iglesia Nuestra Señora Buena Dicha. Lápida conmemorativa,C Silva 21,"Elemento conmemorativo, Lápida",40.42163077379216,-3.706048269955585
+393,Monumentos,Iglesia parroquial de San Juan,Pza Ramales 1,"Elemento conmemorativo, Lápida",40.41684957189336,-3.711502802763488
+394,Monumentos,Iglesia parroquial de Santiago,C Santiago 4,"Elemento conmemorativo, Lápida",40.41671799770715,-3.71092385629567
+395,Monumentos,Iglesia San Cayetano,C Embajadores 15,"Elemento conmemorativo, Lápida",40.40948793336222,-3.705827066127012
+396,Monumentos,Iglesia San Ginés,CALLE ARENAL 13,"Elemento conmemorativo, Lápida",40.4172817394189,-3.707026633033669
+397,Monumentos,Iglesia San Salvador,C Mayor 70,"Elemento conmemorativo, Lápida",40.41561365179237,-3.710311108124026
+398,Monumentos,Iglesia Santa María la Real de la Almudena,C Mayor 88,"Elemento conmemorativo, Lápida",40.41518228609503,-3.7130646548176345
+399,Monumentos,Ignacio de Valentín-Gamazo,CALLE LUCHANA 1,"Elemento conmemorativo, Lápida",40.42936179973726,-3.7017578195321583
+400,Monumentos,Ignacio Zuloaga,Pza Gabriel Miró N/A o N/D,Estatua,40.41246431301354,-3.715534638923739
+401,Monumentos,Imax,C Meneses N/A o N/D,"Elemento conmemorativo, Lápida",40.39196471902117,-3.6819020588514975
+402,Monumentos,Imprenta Juan de la Cuesta,C Atocha 87,"Elemento conmemorativo, Lápida",40.4114415639542,-3.697137601009699
+403,Monumentos,Imprenta Juan de la Cuesta,C San Eugenio 7,"Elemento conmemorativo, Lápida",40.4106893799425,-3.697872350683535
+404,Monumentos,Inauguración del Banco España,Pº Prado 2,"Elemento conmemorativo, Lápida",40.41882114029446,-3.6939486815471656
+405,Monumentos,Indalecio Prieto,PASEO CASTELLANA 63,"Elemento conmemorativo, Lápida",40.442594415765896,-3.692165207852555
+406,Monumentos,Indalecio Prieto Tuero,PLAZA SAN JUAN DE LA CRUZ 1,Estatua,40.440945026222586,-3.693010697595121
+407,Monumentos,Instituto Industrial Isabel II,C Doctor Cortezo 4,"Elemento conmemorativo, Lápida",40.41386954576,-3.70382200534378
+408,Monumentos,Iris,Pº Castellana N/A o N/D,Escultura conceptual o abstracta,40.42607225372158,-3.689626057456036
+409,Monumentos,Isabel la Católica,PASEO CASTELLANA 1,Grupo Escultórico,40.42593095487881,-3.6907524317049822
+410,Monumentos,Isabel la Católica,No disponible,Estatua,40.42006696326565,-3.714236043158858
+411,Monumentos,Ivo Andric,C Velázquez 27,"Elemento conmemorativo, Lápida",40.42458098974711,-3.684365019839268
+412,Monumentos,Jacinto Benavente,CALLE ATOCHA 26,"Elemento conmemorativo, Lápida",40.413550133919486,-3.702039290304875
+413,Monumentos,Jaime Balmes,C Leganitos 5,"Elemento conmemorativo, Lápida",40.42090639286598,-3.709588788172129
+414,Monumentos,Jaime I El Conquistador,No disponible,Estatua,40.420051057542,-3.7138940366231967
+415,Monumentos,Jardines del Maestro Padilla,No disponible,"Elemento conmemorativo, Lápida",40.404400503662735,-3.721447702409671
+416,Monumentos,Jarrones de la Fuente de los Patos,Pº Prado N/A o N/D,Elemento de ornamentación,40.41826876434418,-3.692917517297417
+417,Monumentos,Jarrones Franceses del Parterre,Pº Parterre N/A o N/D,Elemento de ornamentación,40.41504436437171,-3.688252279970025
+418,Monumentos,Jean-Jacques Rousseau,Pza Salesas N/A o N/D,Estatua,40.424386329943296,-3.694347732862085
+419,Monumentos,Jesús de Monasterio y Agüeros,C Bailén 11,"Elemento conmemorativo, Lápida",40.4200940728206,-3.712762887878799
+420,Monumentos,Jesús Guridi,C Sagasta 12,"Elemento conmemorativo, Lápida",40.42840616120244,-3.700024212145113
+421,Monumentos,Joaquín Costa,Pº Pontones 8,Estatua,40.40552432837757,-3.714565481554507
+422,Monumentos,Joaquín Costa,C Barquillo 11,"Elemento conmemorativo, Lápida",40.42101752193584,-3.6957511942220216
+423,Monumentos,Joaquín Ibarra,C Núñez de Arce 11,"Elemento conmemorativo, Lápida",40.4153537543809,-3.701232606999085
+424,Monumentos,Joaquín Turina,C Alfonso XII 7,"Elemento conmemorativo, Lápida",40.41841933321191,-3.690337653786868
+425,Monumentos,Jose Gomez 'Gallito',C Arrieta 14,"Elemento conmemorativo, Lápida",40.41939300153828,-3.711034526310564
+426,Monumentos,Jose María Roquero Vera,CALLE ELOY GONZALO 38,"Elemento conmemorativo, Lápida",40.43466012155877,-3.6992853424580554
+427,Monumentos,Josefina Romo,C Arrieta 14,"Elemento conmemorativo, Lápida",40.41940193750169,-3.711046407807317
+428,Monumentos,José  Serrano Simeón,C Beneficencia 2,"Elemento conmemorativo, Lápida",40.42549357192672,-3.700465554303353
+429,Monumentos,José Anselmo Clavé,C José Anselmo Clavé 1,"Elemento conmemorativo, Lápida",40.40656502016623,-3.685526017580788
+430,Monumentos,José Antonio Primo de Rivera,C Génova 24,"Elemento conmemorativo, Lápida",40.42588361728928,-3.692547692635273
+431,Monumentos,José Calvo Sotelo,C Velázquez 89,"Elemento conmemorativo, Lápida",40.434126210807285,-3.683577536322027
+432,Monumentos,José Cubero (Yiyo),CALLE ALCALA 231,Grupo Escultórico,40.430233472596406,-3.664690887998065
+433,Monumentos,José de Espronceda,C Huertas 80,"Elemento conmemorativo, Lápida",40.412781771196,-3.694499521834349
+434,Monumentos,José Echegaray y Eizaguirre,C Huertas 24,"Elemento conmemorativo, Lápida",40.413671225106505,-3.699388245122305
+435,Monumentos,José García Vara,C Arrieta 4,"Elemento conmemorativo, Lápida",40.4187318091431,-3.710143517736757
+436,Monumentos,José López Silva,C Cava Baja 42,"Elemento conmemorativo, Lápida",40.4118099077164,-3.7106246937967726
+437,Monumentos,José Martí,C Desengaño N/A o N/D,"Elemento conmemorativo, Lápida",40.421015056213946,-3.703601778587136
+438,Monumentos,José María Iparraguirre,C Montera 48,"Elemento conmemorativo, Lápida",40.419857419785146,-3.701373667868832
+439,Monumentos,José María Soler y Guijarro,Pza Mayor 27,"Elemento conmemorativo, Lápida",40.415796031809606,-3.707012725517294
+440,Monumentos,José María Torrijos,C Preciados 30,"Elemento conmemorativo, Lápida",40.41969251490417,-3.7062637552365434
+441,Monumentos,José Nogales,CALLE SANTA ENGRACIA 50,"Elemento conmemorativo, Lápida",40.43416242992005,-3.6982028163841942
+442,Monumentos,José Ortega y Gasset,CALLE ALFONSO XII 4,"Elemento conmemorativo, Lápida",40.41896424029888,-3.689005365024186
+443,Monumentos,José Padilla,C Gabriel Abreu 11,"Elemento conmemorativo, Lápida",40.42400134298887,-3.6616785822694258
+444,Monumentos,José Rizal,C Manuel Fernández y González 7,"Elemento conmemorativo, Lápida",40.41517293166754,-3.6998516879385
+445,Monumentos,José Rizal Mercado,CALLE SANTANDER 1,Grupo Escultórico,40.44210652222822,-3.708913876369024
+446,Monumentos,José Salamanca de Mayol (marqués de Salamanca),Pza Marqués de Salamanca N/A o N/D,Estatua,40.43012318506013,-3.6795050611324815
+447,Monumentos,José Zorrilla,C Santa Teresa 2,"Elemento conmemorativo, Lápida",40.42626470727848,-3.696595098474933
+448,Monumentos,José Zorrilla y Moral,C Huertas 17,"Elemento conmemorativo, Lápida",40.41390323500836,-3.6997560276018007
+449,Monumentos,Joven Bailando,C Palma 49,Estatua,40.42653295713807,-3.7058401794936935
+450,Monumentos,Joven Caminando,Pza San Ildefonso N/A o N/D,Estatua,40.424204932356254,-3.7020082364702738
+451,Monumentos,Juan de Villanueva,C Hernán Cortés 15,"Elemento conmemorativo, Lápida",40.42339072973284,-3.699594996053507
+452,Monumentos,Juan Ferreras García,Pza San Andrés N/A o N/D,"Elemento conmemorativo, Lápida",40.412192343232334,-3.711430175566252
+453,Monumentos,Juan Gris,C Carmen 4,"Elemento conmemorativo, Lápida",40.41749274532921,-3.70356508343122
+454,Monumentos,Juan López de Hoyos,Pza San Andrés N/A o N/D,"Elemento conmemorativo, Lápida",40.41203970694952,-3.711346065168901
+455,Monumentos,Juan Pablo II,C Bailén N/A o N/D,Estatua,40.41532089346699,-3.7139619074844017
+456,Monumentos,Juan Ramón Gómez Pamo,C Santa Isabel 28,"Elemento conmemorativo, Lápida",40.410946996748144,-3.698476095172486
+457,Monumentos,Juan Ramón Jiménez,C Padilla 38,"Elemento conmemorativo, Lápida",40.43135069129968,-3.680649210093911
+458,Monumentos,Juan Valera,Pº Recoletos N/A o N/D,Grupo Escultórico,40.42434262329433,-3.691117293033095
+459,Monumentos,Juan Valera y Alcalá Galiano,Ctra Santo Domingo 3,"Elemento conmemorativo, Lápida",40.41932774255295,-3.70992582332553
+460,Monumentos,Juan Van-Halen y Sarti,Pº Colombia N/A o N/D,Estatua,40.41884912730404,-3.683198925314475
+461,Monumentos,Juantxu Rodríguez,No disponible,"Elemento conmemorativo, Lápida",40.41138578813649,-3.688403581235191
+462,Monumentos,Julio Cejador,GLORIETA QUEVEDO 6,"Elemento conmemorativo, Lápida",40.43397411254953,-3.704592562101588
+463,Monumentos,Julio Romero de Torres,Pº Julio Romero de Torres N/A o N/D,"Elemento conmemorativo, Lápida",40.41165608072066,-3.6807925311766008
+464,Monumentos,Julián Gayarre,PLAZA ORIENTE 6,"Elemento conmemorativo, Lápida",40.41862373971192,-3.711195934160195
+465,Monumentos,Julián Gayarre,CALLE PAVIA 2,"Elemento conmemorativo, Lápida",40.41902126448282,-3.711525215405648
+466,Monumentos,Justo Arosemena,Pº Panamá N/A o N/D,"Elemento conmemorativo, Lápida",40.41913052233172,-3.679783431510293
+467,Monumentos,Km. 0,Pza Puerta del Sol 8,"Elemento conmemorativo, Lápida",40.41662635390578,-3.7038153709924018
+468,Monumentos,Kymaerxthaere. Puerta de entrada a la umbraesfera,Pza Soledad Torres Acosta N/A o N/D,Escultura conceptual o abstracta,40.42129255341412,-3.7053728321335697
+469,Monumentos,La Fuente y el Río,C Serrano N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42938311830525,-3.687349199539306
+470,Monumentos,La Mano,PLAZA SAN JUAN DE LA CRUZ 1,Escultura conceptual o abstracta,40.440945026222586,-3.693010697595121
+471,Monumentos,La petite Faucille,PASEO CASTELLANA 41,Escultura conceptual o abstracta,40.43491329886507,-3.689441908502898
+472,Monumentos,La Solidaridad,C Atocha 43,"Elemento conmemorativo, Lápida",40.413345506609865,-3.7011056818131873
+473,Monumentos,La Violetera,Pza Gabriel Miró 1,Estatua,40.41263258774636,-3.714546377783068
+474,Monumentos,Lagasca,Pza Murillo 2,Estatua,40.41091933282684,-3.691086023295237
+475,Monumentos,Lapida prohibición (fachada convento de la Encarnación),Pza Encarnación 1,"Elemento conmemorativo, Lápida",40.41963260378261,-3.7116264217460335
+476,Monumentos,Las Lecturas del Dos de Mayo,Pza Dos de Mayo N/A o N/D,Estatua,40.42679525788523,-3.704192502298603
+477,Monumentos,Lazo Homenaje lucha contra el Sida,Pza Vázquez de Mella N/A o N/D,"Elemento conmemorativo, Lápida",40.42080743767493,-3.699214603921139
+478,Monumentos,Leandro Fernández de Moratín,CALLE HUERTAS 72,"Elemento conmemorativo, Lápida",40.412950035023776,-3.695496374295185
+479,Monumentos,Leandro Fernández de Moratín,CALLE MORATIN 35,"Elemento conmemorativo, Lápida",40.41254977971106,-3.696002596973079
+480,Monumentos,Leonardo Torres Quevedo,C Válgame Dios 3,"Elemento conmemorativo, Lápida",40.42230927724116,-3.6966721736562618
+481,Monumentos,Leones del Congreso de los Diputados,Pza Cortes 1,Elemento de ornamentación,40.41612818072546,-3.6968205783926367
+482,Monumentos,Leovigildo,Pza Oriente N/A o N/D,Estatua,40.417735093862426,-3.712537611175852
+483,Monumentos,León Felipe,C Huertas 58,"Elemento conmemorativo, Lápida",40.41312161799722,-3.696412400713955
+484,Monumentos,León Felipe,C Huertas 64,"Elemento conmemorativo, Lápida",40.41315651597751,-3.6966013418069616
+485,Monumentos,Lhardy,Ctra San Jerónimo 8,"Elemento conmemorativo, Lápida",40.41661436927865,-3.701339990173085
+486,Monumentos,Lina Morgan,C Don Pedro 4,"Elemento conmemorativo, Lápida",40.41160418167645,-3.7118482794246623
+487,Monumentos,Lope de Vega,C Cervantes 11,"Elemento conmemorativo, Lápida",40.41435024008766,-3.6973444177025687
+488,Monumentos,Lope de Vega,Pº Recoletos 20,Estatua,40.4237176626817,-3.6901678423327184
+489,Monumentos,Loreto Prado (réplica),PLAZA CHAMBERI 1,Estatua,40.43286115363137,-3.697578292926501
+490,Monumentos,Los Pegasos,Pza Legazpi N/A o N/D,Grupo Escultórico,40.39108509739616,-3.694971745564548
+491,Monumentos,Losas de bronce sobre pavimento en la plaza Dalí,Pza Dalí N/A o N/D,Elemento de ornamentación,40.42407521467814,-3.675389039668933
+492,Monumentos,Lucas Aguirre,C Alcalá 62,Estatua,40.42161324583443,-3.681953804971588
+493,Monumentos,Lugar de Encuentros I,C Castelló 77,Escultura conceptual o abstracta,40.43130259371522,-3.681167463418638
+494,Monumentos,Lugar de Encuentros II,Pza Rey N/A o N/D,Escultura conceptual o abstracta,40.42037302266895,-3.6965578981503535
+495,Monumentos,Luigi Boccherini,Gta Boccherini N/A o N/D,Estatua,40.4148060002036,-3.7156419506353418
+496,Monumentos,Luigi Boccherini,C Jesús y María 3,"Elemento conmemorativo, Lápida",40.4118392652361,-3.704354798647296
+497,Monumentos,Luis Calvo Sotelo,Pza Dos de Mayo N/A o N/D,"Elemento conmemorativo, Lápida",40.42666899591072,-3.7042147627998494
+498,Monumentos,Luis Carrero Blanco,CALLE CLAUDIO COELLO 129,"Elemento conmemorativo, Lápida",40.43453973899158,-3.6855715397473694
+499,Monumentos,Luis de Góngora,No disponible,"Elemento conmemorativo, Lápida",40.42006213247568,-3.686782821539186
+500,Monumentos,Luis de Góngora y Argote,C Huertas 16,"Elemento conmemorativo, Lápida",40.41386384718267,-3.700309582912382
+501,Monumentos,Luis Guillermo Schultz Schreizer,CALLE RIOS ROSAS 21,Estatua,40.44209227424258,-3.700373464615154
+502,Monumentos,Luis I de España,C Méndez Núñez 1,Estatua,40.41586028682736,-3.690417579512385
+503,Monumentos,Luis Muñoz Rivera,C Mayor 13,"Elemento conmemorativo, Lápida",40.41626929837006,-3.706227959089083
+504,Monumentos,Luis Vives,Pº Recoletos 20,Estatua,40.423762845847605,-3.690144727772941
+505,Monumentos,Lámina de agua,C Príncipe de Vergara 66,"Fuente, Estanque, Lámina de agua",40.43315391785498,-3.678875338013291
+506,Monumentos,Lámina de agua de Cabestreros,"Pza Cabestreros, de N/A o N/D","Fuente, Estanque, Lámina de agua",40.40977147686095,-3.703649666940801
+507,Monumentos,Macros Descubrimiento,Pza Colón N/A o N/D,Grupo Escultórico,40.4244131302868,-3.688359552575368
+508,Monumentos,Madre e hija,C Portal de Belén N/A o N/D,Grupo Escultórico,40.41241117319576,-3.674930608641561
+509,Monumentos,Maestro Alonso,C Hermanos Álvarez Quintero 30,"Elemento conmemorativo, Lápida",40.42777585647987,-3.696987933880704
+510,Monumentos,Maestro Jacinto Guerrero,Ctra Maestro Guerrero 2,"Elemento conmemorativo, Lápida",40.42393862180016,-3.710210062075604
+511,Monumentos,Manuel Alonso Martínez,PLAZA ALONSO MARTINEZ 2,Estatua,40.42810366133962,-3.696339159241371
+512,Monumentos,Manuel Azaña,C Serrano 40,"Elemento conmemorativo, Lápida",40.42612979338256,-3.687528274381657
+513,Monumentos,Manuel del Palacio,C Claudio Coello 22,"Elemento conmemorativo, Lápida",40.42311608270569,-3.68680209275941
+514,Monumentos,Manuel García Siches,Trav Reloj 1,"Elemento conmemorativo, Lápida",40.4222569638553,-3.711182560315675
+515,Monumentos,Manuel José Quintana,C Marqués Viudo de Pontejos 2,"Elemento conmemorativo, Lápida",40.41579448824916,-3.7043135347549296
+516,Monumentos,Manuel Rodríguez (Manolete),CALLE ALCALA 231,"Elemento conmemorativo, Lápida",40.430233472596406,-3.664690887998065
+517,Monumentos,Maqueta Centenario de la Gran Vía,C Gran Vía 1,"Elemento conmemorativo, Lápida",40.41884881378179,-3.696836860750856
+518,Monumentos,Maqueta de la plazuela de los  Caños del Peral,Pza Isabel II N/A o N/D,"Elemento conmemorativo, Lápida",40.41800661037773,-3.709405087773385
+519,Monumentos,Maqueta de los recintos amurallados de Madrid,Pza Isabel II N/A o N/D,"Elemento conmemorativo, Lápida",40.41803211674883,-3.709652886414231
+520,Monumentos,Maqueta iglesia Almudena,C Almudena N/A o N/D,"Elemento conmemorativo, Lápida",40.41520059375572,-3.713017701360071
+521,Monumentos,Maqueta muralla islámica,Cta Cuesta de la Vega N/A o N/D,"Elemento conmemorativo, Lápida",40.41491796639357,-3.7150184454193074
+522,Monumentos,Marcelino Menéndez Pelayo,C León 21,"Elemento conmemorativo, Lápida",40.41351142439799,-3.698997639628166
+523,Monumentos,Mariano Carderera y Potó,C Moreto 1,"Elemento conmemorativo, Lápida",40.41492403629909,-3.690301929855615
+524,Monumentos,Mariano de Cavia,Pza Menéndez Pelayo N/A o N/D,"Elemento conmemorativo, Lápida",40.40833622639506,-3.678496261883411
+525,Monumentos,Mariano Gómez Ulla,PASEO CASTELLANA 12,"Elemento conmemorativo, Lápida",40.42777609736654,-3.6892727057172094
+526,Monumentos,Mariano José de Larra,C Bailén N/A o N/D,Estatua,40.415649489849166,-3.713269961976083
+527,Monumentos,Mariano José de Larra,C Huertas 74,"Elemento conmemorativo, Lápida",40.41287767769369,-3.6950308906387166
+528,Monumentos,Mariano José de Larra,C Santa Clara 3,"Elemento conmemorativo, Lápida",40.41705160051077,-3.710880219695903
+529,Monumentos,Mariblanca. Réplica Puerta del Sol,Pza Puerta del Sol N/A o N/D,Estatua,40.41683731629688,-3.7046780182148007
+530,Monumentos,Mariscal Francisco Solano López,Pº Paraguay N/A o N/D,"Elemento conmemorativo, Lápida",40.41556913688076,-3.684839467594913
+531,Monumentos,Marqués de Valdavia,C Atocha 80,"Elemento conmemorativo, Lápida",40.41110959964958,-3.6969102417785744
+532,Monumentos,Marqués de Villena,PLAZA DESCALZAS 1,"Elemento conmemorativo, Lápida",40.41791988511,-3.705988853170539
+533,Monumentos,Marqués Viudo de Pontejos,Pza Descalzas N/A o N/D,Estatua,40.41788289362578,-3.706068024190812
+534,Monumentos,María Cristina de Borbón-Dos Sicilias,C Felipe IV N/A o N/D,Estatua,40.41523863003084,-3.690423011904708
+535,Monumentos,María Teresa Rodríguez del Toro de Bolívar,C Fuencarral 2,"Elemento conmemorativo, Lápida",40.4202980482124,-3.701507907372
+536,Monumentos,Mateo Inurria,CALLE QUEVEDO 5,"Elemento conmemorativo, Lápida",40.41392703861398,-3.697654281436429
+537,Monumentos,Maternidad,CALLE GENERAL RODRIGO 8,Escultura conceptual o abstracta,40.44410989913754,-3.713985911924477
+538,Monumentos,Mediterránea,Pº Castellana 41,Escultura conceptual o abstracta,40.432979954546646,-3.686973179986409
+539,Monumentos,Mesonero Romanos,Pza Vázquez de Mella 7,Grupo Escultórico,40.42122239771011,-3.699124598467417
+540,Monumentos,Miguel de Cervantes,C Cervantes 2,"Elemento conmemorativo, Lápida",40.41430709153229,-3.698522625472364
+541,Monumentos,Miguel de Cervantes,C Villa 2,"Elemento conmemorativo, Lápida",40.41430207334547,-3.7126310478854343
+542,Monumentos,Miguel de Cervantes,C Lope de Vega 18,"Elemento conmemorativo, Lápida",40.41368389630756,-3.6972903929663454
+543,Monumentos,Miguel de Cervantes,Pza Cortes N/A o N/D,Estatua,40.41571450065277,-3.696698442869596
+544,Monumentos,Miguel de Cervantes,C Huertas 28,"Elemento conmemorativo, Lápida",40.41356647274266,-3.6988331996276655
+545,Monumentos,Miguel de Cervantes,C Cervantes 2,"Elemento conmemorativo, Lápida",40.41430744754788,-3.698463696493625
+546,Monumentos,Miguel Morayta Sagrario,C Pozas 18,"Elemento conmemorativo, Lápida",40.42544719034717,-3.706606868407048
+547,Monumentos,Miguel Moya,Pº Duque de Fernán Núñez N/A o N/D,Estatua,40.41115978352367,-3.679396782860836
+548,Monumentos,Miguel Moya,C Serrano 4,"Elemento conmemorativo, Lápida",40.42114283737299,-3.6883615800093184
+549,Monumentos,Miradores parque Enrique Tierno Galván,No disponible,Edificación singular,40.390326134927626,-3.681720578008099
+550,Monumentos,Monasterio de Santa Clara,C Santiago 24,"Elemento conmemorativo, Lápida",40.4167694386125,-3.71134872818348
+551,Monumentos,Monolito a Diego Velázquez,Pza Ramales N/A o N/D,"Elemento conmemorativo, Lápida",40.41693791531057,-3.711786621059892
+552,Monumentos,Monolito Recoletos,Pº Recoletos N/A o N/D,"Elemento conmemorativo, Lápida",40.41993434556376,-3.6930996314679057
+553,Monumentos,Monolitos Escuela Superior de Ingenieros de Minas,CALLE RIOS ROSAS 21,"Elemento conmemorativo, Lápida",40.44209227424258,-3.700373464615154
+554,Monumentos,Montaña Artificial del Retiro,Pº Duque de Fernán Núñez N/A o N/D,Edificación singular,40.42110795674615,-3.680557750730097
+555,Monumentos,Mujer con Espejo,PLAZA COLON 1,Escultura conceptual o abstracta,40.42501572775871,-3.6911744065568346
+556,Monumentos,Mujer sedente,No disponible,Estatua,40.41629279661326,-3.6873809848930135
+557,Monumentos,Muralla islámica,Pza Emir Mohamed I N/A o N/D,"Puente, construcción civil",40.41490235415369,-3.7146293213905
+558,Monumentos,Murillo,Pza Murillo N/A o N/D,Estatua,40.41263438787084,-3.6920346819612826
+559,Monumentos,Muro con escudo,CALLE CEA BERMUDEZ 4,Elemento de ornamentación,40.43887785894847,-3.70628197176681
+560,Monumentos,Museo de los Toreros,C Alcalá 231,"Elemento conmemorativo, Lápida",40.432892448208754,-3.663392717126365
+561,Monumentos,Muñoz Degraín,Pº Recoletos 20,Estatua,40.42433129513563,-3.689997290012694
+562,Monumentos,Mártires San Fermín de los Navarros,PASEO EDUARDO DATO 10,"Elemento conmemorativo, Lápida",40.432762649724616,-3.6925645066550974
+563,Monumentos,Mère Ubu,Pº Castellana 41,Escultura conceptual o abstracta,40.43290487323514,-3.6874793765874103
+564,Monumentos,Móvil,Pº Castellana 41,Escultura conceptual o abstracta,40.43298672063512,-3.687350522377781
+565,Monumentos,Nebrija,Pº Recoletos 20,Estatua,40.4238170374952,-3.6901217052513657
+566,Monumentos,Neptuno,Pza Cánovas del Castillo N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41525229259981,-3.6941595352879695
+567,Monumentos,Newton y dolmen de Dalí,Pza Dalí N/A o N/D,Grupo Escultórico,40.42392495645377,-3.673348174636113
+568,Monumentos,Nicolás Fernández de Moratín,C Huertas 69,"Elemento conmemorativo, Lápida",40.41312559151487,-3.695752407377925
+569,Monumentos,Niños en el Colegio Rufino Blanco,CALLE GENERAL ALVAREZ DE CASTRO 46,Grupo Escultórico,40.43821274146004,-3.7024643736653
+570,Monumentos,Niño con caracola,Pza Doctor Laguna 1,Estatua,40.41509901658597,-3.674391704595892
+571,Monumentos,Niños con jarrón de Cibeles,Pza Cibeles N/A o N/D,Grupo Escultórico,40.41852100205188,-3.6929201051761145
+572,Monumentos,Niños con jarrón en Atocha,Pza Emperador Carlos V N/A o N/D,Grupo Escultórico,40.40952490238327,-3.692262114741247
+573,Monumentos,Noria de la Fábrica de Porcelana,Pº Duque de Fernán Núñez N/A o N/D,Edificación singular,40.41048685832594,-3.6835150707314974
+574,Monumentos,Obelisco de la Fuente Castellana,No disponible,"Elemento conmemorativo, Lápida",40.39741403214865,-3.709059282759471
+575,Monumentos,Obelisco del 2 de Mayo y Caídos por España,Pza Lealtad N/A o N/D,Grupo Escultórico,40.41638606030815,-3.692886415492097
+576,Monumentos,Obelisco Laus Deo I,C Bustamante 2,"Elemento conmemorativo, Lápida",40.40075036962516,-3.6937159504448456
+577,Monumentos,Obelisco Laus Deo II,Pza Ortega y Munilla N/A o N/D,"Elemento conmemorativo, Lápida",40.402818437965976,-3.710695113508179
+578,Monumentos,Obelisco Pasillo Verde,C Santa María la Real de Nieva N/A o N/D,Elemento de ornamentación,40.40534276122408,-3.717698360968785
+579,Monumentos,Obeliscos-Pirámides,Gta Pirámides N/A o N/D,"Elemento conmemorativo, Lápida",40.40078798352146,-3.714173657950205
+580,Monumentos,Ocho columnas en los jardines de Cecilio Rodríguez,No disponible,Elemento de ornamentación,40.41440866570365,-3.678439388274668
+581,Monumentos,Octaedro-Aire,GLORIETA SANTA MARIA DE LA CABEZA 1,Escultura conceptual o abstracta,40.40156101774533,-3.6994151560693727
+582,Monumentos,Olivo en bronce,Pza Dalí N/A o N/D,Escultura conceptual o abstracta,40.4239561130967,-3.6741854493802326
+583,Monumentos,Ordoño I,Pza Oriente N/A o N/D,Estatua,40.41877607529163,-3.711735269622898
+584,Monumentos,Ordoño II,Pza Oriente N/A o N/D,Estatua,40.4188007781277,-3.712112723898967
+585,Monumentos,Organización de Profesionales y Autónomos O.P.A.,Pº Prado N/A o N/D,"Elemento conmemorativo, Lápida",40.41447131248979,-3.693691833446018
+586,Monumentos,Oso y Madroño,C Carmen N/A o N/D,Estatua,40.4169769190993,-3.7024635195003457
+587,Monumentos,Osos sentados de la Casa de Fieras,No disponible,Grupo Escultórico,40.416117309704,-3.6789633851804338
+588,Monumentos,Osos tumbados de la Casa de Fieras,No disponible,Grupo Escultórico,40.41485957593277,-3.678361410746561
+589,Monumentos,Pablo Iglesias,AVENIDA PABLO IGLESIAS 2,Estatua,40.44267201887861,-3.7049212076489946
+590,Monumentos,Pablo Luna,CALLE SANDOVAL 6,"Elemento conmemorativo, Lápida",40.43005925556401,-3.703569890388957
+591,Monumentos,Pablo Montesino,C San Bernardo 70,"Elemento conmemorativo, Lápida",40.42695261025053,-3.706457580903199
+592,Monumentos,Pablo Neruda,CALLE HILARION ESLAVA 2,"Elemento conmemorativo, Lápida",40.43229510997443,-3.716725940023887
+593,Monumentos,Pablo Ruíz Picasso,C San Pedro Mártir 5,"Elemento conmemorativo, Lápida",40.41179852849839,-3.703647208381021
+594,Monumentos,Pairón o Peirón,C María de Molina N/A o N/D,Elemento de ornamentación,40.43756151117445,-3.686135516616269
+595,Monumentos,Palacio de Miraflores,Ctra San Jerónimo 15,"Elemento conmemorativo, Lápida",40.416637581805965,-3.698994630532768
+596,Monumentos,Parque de la Arganzuela,No disponible,"Elemento conmemorativo, Lápida",40.39804831004214,-3.7084649687269695
+597,Monumentos,Parque de las Naciones,CALLE GUZMAN EL BUENO 1,"Elemento conmemorativo, Lápida",40.430622853025255,-3.713639175881835
+598,Monumentos,Partido Socialista Obrero Español,C Tetuán 12,"Elemento conmemorativo, Lápida",40.41717106066158,-3.704610778101525
+599,Monumentos,Paso peatonal Puerta Sur,C Párroco Eusebio Cuenca N/A o N/D,"Puente, construcción civil",40.3932624855337,-3.686392639480447
+600,Monumentos,Paulus,PLAZA ARMERIA 1,Estatua,40.41612895048959,-3.714484596702272
+601,Monumentos,Pedestal del paseo de los Reyes,Pº República Argentina N/A o N/D,Elemento de ornamentación,40.4169982768399,-3.685396160529431
+602,Monumentos,Pedro Antonio de Alarcón,C Atocha 94,"Elemento conmemorativo, Lápida",40.41067308208775,-3.696092511650535
+603,Monumentos,Pedro Calderón de la Barca,Pza Santa Ana N/A o N/D,Estatua,40.41457895370551,-3.7012363500073433
+604,Monumentos,Pedro Escartín,C Hermosilla 36,"Elemento conmemorativo, Lápida",40.42622674160034,-3.6833325135655297
+605,Monumentos,Pedro Muñoz Seca,C Velázquez 57,"Elemento conmemorativo, Lápida",40.428700173311285,-3.6840177344229774
+606,Monumentos,Pedro Sainz de Baranda y Gorriti,CALLE ALCALDE SAINZ DE BARANDA 2,"Elemento conmemorativo, Lápida",40.41689333149641,-3.677941244130146
+607,Monumentos,Pedro Vargas,Pº Panamá N/A o N/D,Estatua,40.41791215470997,-3.680148357877939
+608,Monumentos,"Pelayo, Rey de Asturias",Pza Oriente N/A o N/D,Estatua,40.4177592853531,-3.712997564413368
+609,Monumentos,Pepín Fernández,Pza Carmen N/A o N/D,Estatua,40.418961556184286,-3.7035096605425206
+610,Monumentos,Petrus,Pza Armería N/A o N/D,Estatua,40.41614233639251,-3.71369949296833
+611,Monumentos,Pinturas Mingote,C de la Sal N/A o N/D,Elemento de ornamentación,40.41570111691805,-3.706328099231932
+612,Monumentos,Pinturas murales Pasaje Pleyel,C Mayor 6,Elemento de ornamentación,40.416734485984456,-3.705289866921036
+613,Monumentos,Pirámides del parque Peñuelas,Pº Esperanza N/A o N/D,Elemento de ornamentación,40.40036223759613,-3.7042705190729226
+614,Monumentos,Placa informativa Museo al Aire Libre,PASEO CASTELLANA 41,"Elemento conmemorativo, Lápida",40.43491329886507,-3.689441908502898
+615,Monumentos,Placa Matadero en  Arganzuela,No disponible,"Elemento conmemorativo, Lápida",40.39394828357778,-3.701222595591213
+616,Monumentos,Placa Museo al Aire Libre,Pº Castellana 41,"Elemento conmemorativo, Lápida",40.43316359441658,-3.687906445348205
+617,Monumentos,Planta cimientos Convento Trinitarios,Pza Platería de Martínez N/A o N/D,"Elemento conmemorativo, Lápida",40.412714585135895,-3.69368557943678
+618,Monumentos,Planta cimientos Fábrica Platerías,Pza Platería de Martínez 1,"Elemento conmemorativo, Lápida",40.4125617942222,-3.693625079290971
+619,Monumentos,Planta de la torre de la iglesia de Santa Cruz,Pza Santa Cruz 1,"Elemento conmemorativo, Lápida",40.4149218419544,-3.705589178873041
+620,Monumentos,Plaza de Oriente,Pza Oriente 1,"Elemento conmemorativo, Lápida",40.41762321090427,-3.7116877592455
+621,Monumentos,Plaza-Escultura,Pº Castellana 41,Escultura conceptual o abstracta,40.4327281374629,-3.686899878767384
+622,Monumentos,Plácido Domingo,C Ibiza 34,"Elemento conmemorativo, Lápida",40.41803614022019,-3.6743620955344447
+623,Monumentos,Premio Europa Nostra 2003,C Huertas 47,"Elemento conmemorativo, Lápida",40.41330674793902,-3.697086131731717
+624,Monumentos,Primera Piedra del Banco España,Pº Prado 2,"Elemento conmemorativo, Lápida",40.41863153756876,-3.6940174571033166
+625,Monumentos,Proalí,PASEO CASTELLANA 41,Escultura conceptual o abstracta,40.43491329886507,-3.689441908502898
+626,Monumentos,Protección a la Infancia,Pza Campillo del Mundo Nuevo N/A o N/D,Grupo Escultórico,40.40662547051706,-3.7083781188437897
+627,Monumentos,Proyecto para un monumento IV B,Pº Castellana 41,Escultura conceptual o abstracta,40.43313015526773,-3.687469881134483
+628,Monumentos,Puente de Segovia,No disponible Puente de Segovia N/A o N/D,"Puente, construcción civil",40.41395000086607,-3.722905128200874
+629,Monumentos,Puerta Cerrada,Pza Puerta Cerrada N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41381061916412,-3.709042785225804
+630,Monumentos,Puerta de Alcalá,Pza Independencia N/A o N/D,"Puerta, Arco triunfal",40.42002353772616,-3.6887273721734393
+631,Monumentos,Puerta de Dante del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.40946692380853,-3.677717975665517
+632,Monumentos,Puerta de España del Retiro,C Alfonso XII N/A o N/D,"Puerta, Arco triunfal",40.41668173613076,-3.688634359907387
+633,Monumentos,Puerta de Felipe IV del Retiro,C Alfonso XII 3,"Puerta, Arco triunfal",40.41528506739523,-3.6886790540386696
+634,Monumentos,Puerta de Granada del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.41231852130818,-3.676909763532325
+635,Monumentos,Puerta de Hernani del Retiro,C Alcalá 62,"Puerta, Arco triunfal",40.42037213070657,-3.686161231509244
+636,Monumentos,Puerta de Herrero Palacios del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.41480004144613,-3.677759694915111
+637,Monumentos,Puerta de la América Española del Retiro,Pza Menéndez Pelayo 10,"Puerta, Arco triunfal",40.419753564834025,-3.679542165511024
+638,Monumentos,Puerta de la Independencia del Retiro,Pza Independencia N/A o N/D,"Puerta, Arco triunfal",40.419640944261374,-3.6879219226850832
+639,Monumentos,Puerta de la Reina Mercedes del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.41825205152337,-3.6790319941390175
+640,Monumentos,Puerta de los Cuarteles de Daoiz y Velarde,Avda Ciudad de Barcelona 164,"Puerta, Arco triunfal",40.40229882016412,-3.6771864890439137
+641,Monumentos,Puerta de los jardines del Arquitecto Herrero Palacios,Pº Duque de Fernán Núñez N/A o N/D,"Puerta, Arco triunfal",40.416464763984216,-3.67962694520718
+642,Monumentos,Puerta de Madrid del Retiro,C O'Donnell N/A o N/D,"Puerta, Arco triunfal",40.42110925617198,-3.681866201432033
+643,Monumentos,Puerta de Murillo del Retiro,C Alfonso XII N/A o N/D,"Puerta, Arco triunfal",40.412799071143695,-3.6885947775993184
+644,Monumentos,Puerta de O´Donnell del Retiro,C O'Donnell N/A o N/D,"Puerta, Arco triunfal",40.42143455210893,-3.680172045208873
+645,Monumentos,Puerta de Sainz de Baranda del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.41712840895454,-3.6786081512302182
+646,Monumentos,Puerta de Toledo,Gta Puerta de Toledo N/A o N/D,"Puerta, Arco triunfal",40.40671367192122,-3.711619974229129
+647,Monumentos,Puerta del Doce de Octubre del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.415564522058965,-3.677979527480413
+648,Monumentos,Puerta del Niño Jesús del Retiro,Pza Menéndez Pelayo N/A o N/D,"Puerta, Arco triunfal",40.4112293170536,-3.676757417458312
+649,Monumentos,Puerta del Olivar de Atocha (Jardines de Cecilio Rodríguez),Pº Duque de Fernán Núñez N/A o N/D,"Puerta, Arco triunfal",40.41311871747994,-3.6787210909601713
+650,Monumentos,Puerta del pabellón de los Jardines Cecilio Rodríguez,Pº Uruguay N/A o N/D,"Puerta, Arco triunfal",40.412286593679134,-3.677746262942013
+651,Monumentos,Puerta del Ángel Caído del Retiro,C Alfonso XII 5,"Puerta, Arco triunfal",40.40963820726981,-3.6883739879456345
+652,Monumentos,Puerta norte del Jardín Botánico,Pza Murillo 2,"Puerta, Arco triunfal",40.41237342351499,-3.6919848637416672
+653,Monumentos,Puerta Real del Jardín Botánico,Pº Prado 11,"Puerta, Arco triunfal",40.41094831650798,-3.692264914659393
+654,Monumentos,Puerta secundaria jardines Cecilio Rodríguez,Pº Uruguay N/A o N/D,"Puerta, Arco triunfal",40.41232456171481,-3.677416630426227
+655,Monumentos,Puerta sur de los jardines de Cecilio Rodríguez,Pº Uruguay N/A o N/D,"Puerta, Arco triunfal",40.41214890878916,-3.6781809696302
+656,Monumentos,Puertas Biblioteca y Museo Arqueológico Nacionales,Pº Recoletos 20,"Puerta, Arco triunfal",40.423525668802256,-3.690637405772645
+657,Monumentos,Pérgolas del parque Enrique Tierno Galván,No disponible,Edificación singular,40.3934483874144,-3.6854283294271855
+658,Monumentos,Pío Baroja,C Claudio Moyano N/A o N/D,Estatua,40.40963497841015,-3.688916098199434
+659,Monumentos,Quer,Pza Murillo 2,Estatua,40.411899709662826,-3.691355347156553
+660,Monumentos,Quiosco de Música del Retiro,Pza Maestro Villa N/A o N/D,Edificación singular,40.41945096510063,-3.6850202786224906
+661,Monumentos,Rafael de León,CALLE MAIQUEZ 12,"Elemento conmemorativo, Lápida",40.42192050487996,-3.672907955296621
+662,Monumentos,Rafael El Gallo,C Cedaceros 3,"Elemento conmemorativo, Lápida",40.41753447774349,-3.698167028962748
+663,Monumentos,Rafael Martínez Molina,C Atocha 105,"Elemento conmemorativo, Lápida",40.41069450344943,-3.695527009043309
+664,Monumentos,Ramiro I,Pza Oriente N/A o N/D,Estatua,40.41770254537207,-3.71197148607997
+665,Monumentos,Ramiro II. Rey de León,Pza Oriente N/A o N/D,Estatua,40.41880935096959,-3.712183538164843
+666,Monumentos,Ramiro I. Primer Rey de Aragón,Pza Oriente N/A o N/D,Estatua,40.41883441554283,-3.712502060019548
+667,Monumentos,Ramón Gómez de la Serna,Pza Gabriel Miró N/A o N/D,"Fuente, Estanque, Lámina de agua",40.41264324199275,-3.715736900198957
+668,Monumentos,Ramón María del Valle-Inclán,Pº Recoletos N/A o N/D,Estatua,40.42345746587572,-3.6914972418632015
+669,Monumentos,Ramón María del Valle-Inclán,C General Oraa 9,"Elemento conmemorativo, Lápida",40.43640275477031,-3.68707875886046
+670,Monumentos,Ramón Mesonero Romanos,CALLE BARCELO 1,Grupo Escultórico,40.42645345182625,-3.701083694459614
+671,Monumentos,Ramón Pelayo,C Noviciado 3,"Elemento conmemorativo, Lápida",40.425574456886345,-3.707893146243272
+672,Monumentos,Real Cerca de Felipe IV,Rda Ronda de Segovia N/A o N/D,"Puente, construcción civil",40.40717492595917,-3.71279157523858
+673,Monumentos,Relieve Museo de Carruajes I,No disponible,Elemento de ornamentación,40.41762896822392,-3.719490883262965
+674,Monumentos,Relieve Museo de Carruajes II,No disponible,Elemento de ornamentación,40.41777302989898,-3.719504205067407
+675,Monumentos,Reloj de sol Puerta Toledo,Gta Puerta de Toledo N/A o N/D,Elemento de ornamentación,40.407134946632645,-3.7105048100759954
+676,Monumentos,Reloj de sol Recoletos,Pº Recoletos N/A o N/D,Elemento de ornamentación,40.42153315585799,-3.692396985058563
+677,Monumentos,Restauración iglesia de Montserrat,C San Bernardo 79,"Elemento conmemorativo, Lápida",40.42783551032979,-3.706455030301168
+678,Monumentos,Restos arqueológicos iglesia Almudena,C Almudena N/A o N/D,Edificación singular,40.41526365294522,-3.713018367020872
+679,Monumentos,Restos Convento Santa Catalina de Sena,"Pza Cabestreros, de N/A o N/D",Elemento de ornamentación,40.40963692335875,-3.703553979797178
+680,Monumentos,Restos de cerca en la calle Bailén,C Bailén 3,"Puente, construcción civil",40.42105020347944,-3.7125725883320646
+681,Monumentos,Restos escultóricos,CALLE JOAQUIN MARIA LOPEZ 1,Elemento de ornamentación,40.43733674903781,-3.708039261033894
+682,Monumentos,Restos iglesia San Juan Bautista,Pza Ramales N/A o N/D,Edificación singular,40.41683046685208,-3.711679406011085
+683,Monumentos,Reveriano Soutullo,C Apodaca 7,"Elemento conmemorativo, Lápida",40.42735739504234,-3.700638145117757
+684,Monumentos,Rey astur-leonés,C Méndez Núñez 1,Estatua,40.41586211635765,-3.690111141238981
+685,Monumentos,Rey astur-leonés,C Méndez Núñez 1,Estatua,40.41586148315061,-3.690217216029108
+686,Monumentos,Rey astur-leonés (probablemente Fruela I),C Méndez Núñez 1,Estatua,40.41585909015692,-3.690617942983646
+687,Monumentos,Rey godo anterior a Leovigildo,C Méndez Núñez 1,Estatua,40.4158596533392,-3.69052365429278
+688,Monumentos,Ricardo Codorníu,Pº Julio Romero de Torres N/A o N/D,Estatua,40.41257453358713,-3.6808725047106696
+689,Monumentos,Ricardo de la Vega,Ctra Fernanflor 8,"Elemento conmemorativo, Lápida",40.41662847511813,-3.696024228026796
+690,Monumentos,Ricardo Villa,Trav Bringas 1,"Elemento conmemorativo, Lápida",40.41572344836793,-3.708567820110063
+691,Monumentos,Rosalía de Castro,C Ballesta 13,"Elemento conmemorativo, Lápida",40.42188973799024,-3.703469437718184
+692,Monumentos,Rubén Darío,CALLE VENERAS 4,"Elemento conmemorativo, Lápida",40.419366433462166,-3.7074238861825792
+693,Monumentos,Rubén Darío,GLORIETA RUBEN DARIO 4,"Elemento conmemorativo, Lápida",40.43272591437011,-3.6909047223605502
+694,Monumentos,Rubén Darío,GLORIETA RUBEN DARIO 1,Estatua,40.43273593844541,-3.691684127602227
+695,Monumentos,Rubén Darío,CALLE SERRANO 31,"Elemento conmemorativo, Lápida",40.42759181849185,-3.687631112527105
+696,Monumentos,Ruinas de la ermita de san Pelayo y san Isidoro,No disponible,Edificación singular,40.4205323834076,-3.6803869236490776
+697,Monumentos,Ruperto Chapí,C Arenal 18,"Elemento conmemorativo, Lápida",40.41739168324489,-3.706840835469393
+698,Monumentos,Ruperto Chapí,Pº Duque de Fernán Núñez N/A o N/D,Grupo Escultórico,40.41978743788123,-3.6814402931570074
+699,Monumentos,Ría Chica,No disponible,"Fuente, Estanque, Lámina de agua",40.42313827677812,-3.661363634950625
+700,Monumentos,Ría del paseo de Colombia,PASEO COLOMBIA 1,"Fuente, Estanque, Lámina de agua",40.41906571939961,-3.684053112760816
+701,Monumentos,Ría Norte y estanque de la Montaña Artificial del Retiro,Pº Duque de Fernán Núñez N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42111786715193,-3.680404610139603
+702,Monumentos,Saineteros madrileños,CALLE LUCHANA 1,Grupo Escultórico,40.42936179973726,-3.7017578195321583
+703,Monumentos,San Isidoro,Pº Recoletos 20,Estatua,40.42381640417609,-3.6902277925359694
+704,Monumentos,San Isidoro,PLAZA MARQUES DE COMILLAS 1,Estatua,40.44549064892974,-3.7192271957409138
+705,Monumentos,San Isidro,No disponible,Grupo Escultórico,40.40987468819365,-3.7147293508847015
+706,Monumentos,San José,CALLE ELOY GONZALO 3,Estatua,40.43396130832552,-3.703366508250357
+707,Monumentos,Sancha. Reina de León,Pza Oriente N/A o N/D,Estatua,40.41884255225387,-3.712643593674597
+708,Monumentos,Sancho IV,Pº República Argentina N/A o N/D,Estatua,40.416849571553215,-3.6876813257295855
+709,Monumentos,Sancho IV. El Bravo,PASEO ARGENTINA 2,Estatua,40.41641800657534,-3.688129200745717
+710,Monumentos,Santa María de la Cabeza,CALLE TOLEDO 1,Estatua,40.41496410523568,-3.7075957126595975
+711,Monumentos,Santiago Ramón y Cajal,Pº Venezuela N/A o N/D,Grupo Escultórico,40.41655706214545,-3.6807829932642098
+712,Monumentos,Santiago Ramón y Cajal,C Santa Isabel 51,"Elemento conmemorativo, Lápida",40.40924498592644,-3.6953706582925143
+713,Monumentos,Santiago Ramón y Cajal,C Alfonso XII 64,"Elemento conmemorativo, Lápida",40.40818488883418,-3.6888541699550137
+714,Monumentos,Serafín y Joaquín Álvarez Quintero,C Velázquez 76,"Elemento conmemorativo, Lápida",40.4295494815605,-3.6836019282799146
+715,Monumentos,Si todos los hombres...,CALLE GUZMAN EL BUENO 1,"Elemento conmemorativo, Lápida",40.430622853025255,-3.713639175881835
+716,Monumentos,Simón Bolívar y María Teresa del Toro,C Gravina 19,"Elemento conmemorativo, Lápida",40.42281360982687,-3.696700952802356
+717,Monumentos,Simón de Rojas Clemente,Pza Murillo 2,Estatua,40.41128811791733,-3.6911840840040018
+718,Monumentos,Sirena Varada 'Lugar de Encuentros III',Pº Castellana 41,Escultura conceptual o abstracta,40.43302902844069,-3.687810755578041
+719,Monumentos,Skandia,CALLE GUZMAN EL BUENO 133,Escultura conceptual o abstracta,40.44298464158624,-3.7126774084733696
+720,Monumentos,Sor Marcela de San Félix,C Huertas 47,"Elemento conmemorativo, Lápida",40.41337675465542,-3.697428658903856
+721,Monumentos,Suintila,Pza Oriente N/A o N/D,Estatua,40.41775151240112,-3.712797101192608
+722,Monumentos,Templete de música del parque de Roma,C Juan Esplandiú N/A o N/D,Edificación singular,40.41509074425869,-3.661791660211395
+723,Monumentos,Teniente Jacinto Ruíz Mendoza,Pza Rey N/A o N/D,Estatua,40.42035053969978,-3.6958032606375104
+724,Monumentos,Tetraedro-Fuego,No disponible,Escultura conceptual o abstracta,40.40261182232879,-3.7105986646289137
+725,Monumentos,Thalía,No disponible,Estatua,40.41450137812112,-3.6779924296541946
+726,Monumentos,Tirso de Molina,Pza Tirso de Molina N/A o N/D,Estatua,40.41235131224301,-3.704595861391306
+727,Monumentos,Tomás Bretón,CALLE CAMPOMANES 10,"Elemento conmemorativo, Lápida",40.41930100846769,-3.709118228949357
+728,Monumentos,Tomás Borrás Bermejo,C Tomás Borrás 2,"Elemento conmemorativo, Lápida",40.39584394425848,-3.696128304306783
+729,Monumentos,Toreros de la Beneficencia,CALLE ALCALA 231,Grupo Escultórico,40.430233472596406,-3.664690887998065
+730,Monumentos,Toros ibéricos,Pº Castellana 41,Escultura conceptual o abstracta,40.43312847237076,-3.687752819735453
+731,Monumentos,Tras Julia,C Pez 42,Estatua,40.42446087205427,-3.707315633210165
+732,Monumentos,Triángulo de Oro,CALLE BRAVO MURILLO 376,"Elemento conmemorativo, Lápida",40.43406413409929,-3.704544691262899
+733,Monumentos,Tríptico en el Hospital de Jornaleros,CALLE MAUDES 17,"Elemento conmemorativo, Lápida",40.44539205139684,-3.701197422725348
+734,Monumentos,Tríptico Paseo de la Castellana,Pº Castellana 41,Escultura conceptual o abstracta,40.43277289965522,-3.686947493298401
+735,Monumentos,Túnel de Bonaparte. Panel informativo,Pº Ermita de la Virgen del Puerto N/A o N/D,"Elemento conmemorativo, Lápida",40.41885438690496,-3.720906628585294
+736,Monumentos,Un món per a infants,PASEO CASTELLANA 41,Escultura conceptual o abstracta,40.43491329886507,-3.689441908502898
+737,Monumentos,Un pintor para El Prado,C Ruiz de Alarcón N/A o N/D,Estatua,40.41471725539349,-3.691737782638661
+738,Monumentos,Unidades-Yunta,PASEO CASTELLANA 35,Escultura conceptual o abstracta,40.43376022470327,-3.689020430989787
+739,Monumentos,Vagón-plataforma de tren,No disponible,Elemento de ornamentación,40.39383547535897,-3.685479386320473
+740,Monumentos,Valle-Inclán. Café de la Montaña,C Alcalá 2,"Elemento conmemorativo, Lápida",40.41701409862808,-3.702275314140264
+741,Monumentos,Valle-Inclán. Cueva de Zaratustra,C Mayor 84,"Elemento conmemorativo, Lápida",40.41527687511881,-3.712334878260092
+742,Monumentos,Valle-Inclán. Presidente Ateneo,C Santa Catalina 10,"Elemento conmemorativo, Lápida",40.4154461463756,-3.6978743480308784
+743,Monumentos,Velázquez,Pº Prado N/A o N/D,Estatua,40.4137204638882,-3.692705848764729
+744,Monumentos,Velázquez,C Serrano 13,Estatua,40.42347456265254,-3.6886328999885234
+745,Monumentos,Venus,Pº Recoletos N/A o N/D,Estatua,40.42174691093894,-3.691302908227248
+746,Monumentos,Vicente Aleixandre,CALLE VICENTE ALEIXANDRE 3,"Elemento conmemorativo, Lápida",40.4456473780793,-3.71763706464936
+747,Monumentos,Vicente Pastor,C Embajadores 5,"Elemento conmemorativo, Lápida",40.41061745811759,-3.7067463803456
+748,Monumentos,Virgen de la Almudena (Réplica),Cta Vega N/A o N/D,Estatua,40.41526958756661,-3.714975020810164
+749,Monumentos,Virgen de los Reyes,Gta Sevilla N/A o N/D,"Elemento conmemorativo, Lápida",40.42015270782141,-3.680607062131696
+750,Monumentos,Virgen del Pilar,C Juan Bravo N/A o N/D,"Elemento conmemorativo, Lápida",40.43238465266861,-3.677936215668236
+751,Monumentos,Virgen María,PLAZA SAN ANDRES 1,Estatua,40.41208167798535,-3.710809418427343
+752,Monumentos,Volumen-relieve-arquitectura,Pº Castellana 41,Escultura conceptual o abstracta,40.43299474767963,-3.687515661302191
+753,Monumentos,Vázquez de Mella,Pza Vázquez de Mella N/A o N/D,"Fuente, Estanque, Lámina de agua",40.42105967493394,-3.6992172155508034
+754,Monumentos,Víctimas de los atentados del 11 de marzo de 2004,Avda Ciudad de Barcelona 164,"Elemento conmemorativo, Lápida",40.40135785766768,-3.677872332483349
+755,Monumentos,Wamba,Pza Oriente N/A o N/D,Estatua,40.41775986680819,-3.712903273522045
+756,Monumentos,Wifredo. El Velloso,Pza Oriente N/A o N/D,Estatua,40.41878450322952,-3.711829656904652
+757,Monumentos,Álvaro de Bazán,Pza Villa N/A o N/D,Estatua,40.41510852626656,-3.7104118761990375
+758,Monumentos,Álvaro Iglesias Sánchez,CALLE CARRANZA 7,"Elemento conmemorativo, Lápida",40.42899985474432,-3.703130552083018
+759,Monumentos,Ángeles de la Paz,Avda Bruselas N/A o N/D,Grupo Escultórico,40.44302323474031,-3.664152630364104
+760,Monumentos,Íñigo Arista,Pza Oriente N/A o N/D,Estatua,40.41771031975775,-3.712171949081169
+761,Monumentos,Órgano,C Castelló 77,Escultura conceptual o abstracta,40.43111341538865,-3.68116555456384

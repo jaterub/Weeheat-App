@@ -1,0 +1,114 @@
+,TIPO,NOMBRE,DIRECCION,DESCRIPCION,LATITUD,LONGITUD
+0,Templos,Basílica Jesús de Medinaceli,PLAZA JESUS 2.0,TemplosIglesiasCatolicas,40.41402616561857,-3.6956012747015614
+1,Templos,Basílica La Milagrosa,CALLE GARCIA DE PAREDES 45.0,TemplosIglesiasCatolicas,40.43674573228548,-3.695712749431933
+2,Templos,Basílica Pontificia de San Miguel,CALLE SAN JUSTO 4.0,MonumentosEdificiosArtisticos,40.41420531493721,-3.709661482525444
+3,Templos,Capilla de San Ignacio de los Vascos,CALLE PRINCIPE 31.0,TemplosIglesiasCatolicas,40.414333713557774,-3.700097469703819
+4,Templos,Capilla de San Isidro,CALLE AGUILA 1.0,MonumentosEdificiosArtisticos,40.41003472262128,-3.711938408934679
+5,Templos,Capilla Nuestra Señora de la Bien Aparecida,CALLE PIO BAROJA 2.0,TemplosIglesiasCatolicas,40.41528491290429,-3.674697191666304
+6,Templos,Catedral Santa María la Real de la Almudena,CALLE BAILEN 10.0,MonumentosEdificiosArtisticos,40.4155496711662,-3.713667423315139
+7,Templos,Concepción Real de Calatrava,CALLE ALCALA 25.0,MonumentosEdificiosArtisticos,40.41824309027286,-3.698862851069463
+8,Templos,Convento de las Comendadoras de Santiago,PLAZA COMENDADORAS 10.0,MonumentosEdificiosArtisticos,40.4273968151307,-3.708949668437218
+11,Templos,Ermita Virgen del Puerto,PASEO VIRGEN DEL PUERTO 4.0,MonumentosEdificiosArtisticos,40.41556783900282,-3.721135107165399
+13,Templos,Iglesia Catedral de las Fuerzas Armadas,CALLE SACRAMENTO 11.0,MonumentosEdificiosArtisticos,40.414895416742574,-3.712253187182216
+16,Templos,Iglesia de la Santísima Trinidad (Trinitarios),CALLE ECHEGARAY 30.0,TemplosIglesiasCatolicas,40.41413682281796,-3.699583659131713
+18,Templos,Iglesia de Nuestra Señora de las Maravillas,CALLE DOS DE MAYO 11.0,TemplosIglesiasCatolicas,40.42645802536706,-3.7042148078055055
+19,Templos,Iglesia de San Antón,CALLE HORTALEZA 63.0,TemplosIglesiasCatolicas,40.42408121377881,-3.698490642429576
+22,Templos,Iglesia del Santo Niño del Remedio,CALLE DONADOS 6.0,TemplosIglesiasCatolicas,40.41808596480543,-3.7082649271629786
+23,Templos,Iglesia Esclavas del Sagrado Corazón de Jesús,PASEO GENERAL MARTINEZ CAMPOS 10.0,TemplosIglesiasCatolicas,40.43486534899859,-3.697316278159992
+24,Templos,Iglesia Madres Dominicas (Monasterio Santo Domingo el Real),CALLE CLAUDIO COELLO 112.0,TemplosIglesiasCatolicas,40.435518121414,-3.685282358716252
+25,Templos,Iglesia Nuestra Señora de la Paz,CALLE DOCTOR ESQUERDO 44.0,TemplosIglesiasCatolicas,40.4205803581753,-3.66930055090613
+27,Templos,Iglesia Nuestra Señora de Montserrat,CALLE SAN BERNARDO 79.0,TemplosIglesiasCatolicas,40.42782496214609,-3.706474495078322
+28,Templos,Iglesia San Antonio de los Alemanes,CALLE CORREDERA BAJA DE SAN PABLO 16.0,MonumentosEdificiosArtisticos,40.42265490186256,-3.703498161168639
+29,Templos,Iglesia San José de la Montaña,CALLE FERNANDEZ DE LA HOZ 16.0,TemplosIglesiasCatolicas,40.43110799341,-3.695036287674311
+30,Templos,Iglesia San Pedro el Viejo,CALLE NUNCIO 14.0,MonumentosEdificiosArtisticos,40.413210155345766,-3.7099876453523866
+31,Templos,Monasterio de la Inmaculada y San Pascual (Clarisas),PASEO RECOLETOS 11.0,TemplosIglesiasCatolicas,40.42115211611733,-3.692841011965799
+32,Templos,Monasterio de la Santísima Trinidad y de San Ildefonso (Trinitarias),CALLE LOPE DE VEGA 18.0,MonumentosEdificiosArtisticos,40.41367254153843,-3.6976792276700983
+33,Templos,Monasterio de Nuestra Señora de las Maravillas (Carmelitas Calzadas de la antigua observancia),CALLE PRINCIPE DE VERGARA 23.0,TemplosIglesiasCatolicas,40.42547662286892,-3.6803311229580142
+34,Templos,Monasterio de San Plácido (Benedictinas),CALLE SAN ROQUE 9.0,MonumentosEdificiosArtisticos,40.42282192627356,-3.704504711717618
+35,Templos,Monasterio del Corpus Christi (Jerónimas 'Carboneras'),PLAZA CONDE DE MIRANDA 3.0,MonumentosEdificiosArtisticos,40.41475533272026,-3.709820369125855
+37,Templos,Oratorio de la Hospitalidad de Nuestra Señora de Lourdes,CALLE FORTUNY 21.0,TemplosIglesiasCatolicas,40.430192969178,-3.690959673823567
+38,Templos,Oratorio San Felipe Neri,CALLE ANTONIO ARIAS 17.0,TemplosIglesiasCatolicas,40.41613269752756,-3.6714727599768513
+43,Templos,Parroquia Beata María Ana de Jesús,CALLE GUILLERMO DE OSMA 10.0,TemplosIglesiasCatolicas,40.3940038661772,-3.6970397447986025
+47,Templos,Parroquia Concepción de Nuestra Señora,CALLE GOYA 26.0,TemplosIglesiasCatolicas,40.42495800506551,-3.6822213540761775
+57,Templos,Parroquia El Salvador y San Nicolás,CALLE ATOCHA 58.0,TemplosIglesiasCatolicas,40.41206827888049,-3.698819945559317
+69,Templos,Parroquia Los Doce Apóstoles,CALLE VELAZQUEZ 88.0,TemplosIglesiasCatolicas,40.43212167528803,-3.6833570545793455
+71,Templos,Parroquia María Auxiliadora,RONDA ATOCHA 25.0,TemplosIglesiasCatolicas,40.40653095707973,-3.696549886772587
+78,Templos,Parroquia Nuestra Madre del Dolor,AVENIDA TOREROS 45.0,TemplosIglesiasCatolicas,40.43244949083442,-3.666650700687376
+84,Templos,Parroquia Nuestra Señora de Covadonga,CALLE FRANCISCO SILVELA 2.0,TemplosIglesiasCatolicas,40.42882028889333,-3.6691307704102902
+85,Templos,Parroquia Nuestra Señora de Europa,PASEO JUAN ANTONIO VALLEJO-NAJERA BOTAS 23.0,TemplosIglesiasCatolicas,40.401561268023,-3.707087679377704
+89,Templos,Parroquia Nuestra Señora de la Consolación,CALLE JUAN ESPLANDIU 2.0,TemplosIglesiasCatolicas,40.41589440293688,-3.6651928479923983
+90,Templos,Parroquia Nuestra Señora de la Estrella,CALLE LIRA 4.0,TemplosIglesiasCatolicas,40.40832664939234,-3.6695254032917135
+99,Templos,Parroquia Nuestra Señora de la Paz,CALLE VALDERRIBAS 37.0,TemplosIglesiasCatolicas,40.40485418923655,-3.676198602714417
+105,Templos,Parroquia Nuestra Señora de las Angustias,CALLE RAFAEL DE RIEGO 16.0,TemplosIglesiasCatolicas,40.404513321126586,-3.6922088887788256
+106,Templos,Parroquia Nuestra Señora de las Delicias,PASEO DELICIAS 61.0,TemplosIglesiasCatolicas,40.40029003332906,-3.6938050319544646
+113,Templos,Parroquia Nuestra Señora de los Ángeles,CALLE BRAVO MURILLO 93.0,TemplosIglesiasCatolicas,40.445836774693575,-3.704184722308509
+116,Templos,Parroquia Nuestra Señora de los Dolores,CALLE SAN BERNARDO 103.0,TemplosIglesiasCatolicas,40.43115695362478,-3.7054523141302185
+122,Templos,Parroquia Nuestra Señora del Buen Consejo y San Isidro,CALLE TOLEDO 37.0,MonumentosEdificiosArtisticos,40.412971157638985,-3.707369400972756
+125,Templos,Parroquia Nuestra Señora del Carmen y San Luis Obispo,CALLE CARMEN 10.0,TemplosIglesiasCatolicas,40.41820834788744,-3.7040397886031022
+130,Templos,Parroquia Nuestra Señora del Henar,CALLE AGUSTIN DURAN 20.0,TemplosIglesiasCatolicas,40.43645204220764,-3.6734240892953007
+131,Templos,Parroquia Nuestra Señora del Perpetuo Socorro,CALLE MANUEL SILVELA 14.0,TemplosIglesiasCatolicas,40.43018988613746,-3.6989360511918186
+132,Templos,Parroquia Nuestra Señora del Pilar. Calle Juan Bravo,CALLE JUAN BRAVO 40.0,TemplosIglesiasCatolicas,40.43242564700386,-3.678246230346705
+139,Templos,Parroquia Nuestra Señora del Rosario de Filipinas,CALLE CONDE DE PE&amp;Ntilde;ALVER 40.0,TemplosIglesiasCatolicas,40.42922287524457,-3.675132370930213
+144,Templos,Parroquia Nuestra Señora del Valle,CALLE VALDERRIBAS 72.0,TemplosIglesiasCatolicas,40.40202748234508,-3.670353772978105
+146,Templos,Parroquia Nuestra Señora Reina del Cielo,PASAJE CAN MENOR 5.0,TemplosIglesiasCatolicas,40.4127449606682,-3.666813444310057
+152,Templos,Parroquia Purísimo Corazón de María,CALLE EMBAJADORES 81.0,TemplosIglesiasCatolicas,40.40215217974204,-3.700042548658745
+154,Templos,Parroquia Sagrada Familia,CALLE ANTONIO TOLEDANO 23.0,TemplosIglesiasCatolicas,40.42382904749136,-3.6667855547624497
+164,Templos,Parroquia San Andrés Apóstol. Plaza San Andrés,PLAZA SAN ANDRES 1.0,TemplosIglesiasCatolicas,40.41208167798535,-3.710809418427343
+167,Templos,Parroquia San Antonio del Retiro,CALLE DUQUE DE SESTO 9.0,TemplosIglesiasCatolicas,40.42265024486223,-3.677580444954178
+171,Templos,Parroquia San Basilio el Grande,CALLE FERNANDO POO 36.0,TemplosIglesiasCatolicas,40.39664016587397,-3.7000118514466873
+176,Templos,Parroquia San Bonifacio,CALLE BREMEN 2.0,TemplosIglesiasCatolicas,40.43730879570332,-3.664895800504482
+181,Templos,Parroquia San Cristóbal y San Rafael,CALLE BRAVO MURILLO 39.0,TemplosIglesiasCatolicas,40.43687102700812,-3.7053499214546095
+187,Templos,Parroquia San Estanislao de Kostka,CALLE DOCTOR ESQUERDO 97.0,TemplosIglesiasCatolicas,40.41612988636634,-3.6691606212970376
+192,Templos,Parroquia San Fermín de los Navarros,PASEO EDUARDO DATO 10.0,MonumentosEdificiosArtisticos,40.432762649724616,-3.6925645066550974
+195,Templos,Parroquia San Francisco de Borja,CALLE SERRANO 104.0,TemplosIglesiasCatolicas,40.43435256088428,-3.686386452413175
+204,Templos,Parroquia San Ginés,CALLE ARENAL 13.0,MonumentosEdificiosArtisticos,40.4172817394189,-3.707026633033669
+206,Templos,Parroquia San Hermenegildo y Santa María de la Cabeza,CALLE FOSFORO 4.0,TemplosIglesiasCatolicas,40.41095023248612,-3.7200255503796473
+209,Templos,Parroquia San Ildefonso y Santos Justo y Pastor,CALLE COLON 16.0,TemplosIglesiasCatolicas,40.423869666394765,-3.701721486046927
+215,Templos,Parroquia San Jerónimo el Real (Los Jerónimos),CALLE MORETO 4.0,TemplosIglesiasCatolicas,40.41435651796935,-3.690523026519969
+218,Templos,Parroquia San José,CALLE ALCALA 43.0,MonumentosEdificiosArtisticos,40.419055521189584,-3.696669261049986
+226,Templos,Parroquia San Juan Crisóstomo,CALLE DOMENICO SCARLATTI 2.0,TemplosIglesiasCatolicas,40.44159171777554,-3.716168248298193
+229,Templos,Parroquia San Juan de la Cruz,PLAZA SAN JUAN DE LA CRUZ 2.0,TemplosIglesiasCatolicas,40.441098742710295,-3.693472605105085
+232,Templos,Parroquia San Juan Evangelista,PLAZA VENECIA 1.0,TemplosIglesiasCatolicas,40.44119950769623,-3.662528719565154
+234,Templos,Parroquia San León Magno,CALLE CONCEJAL BENITO MARTIN LOZANO 7.0,TemplosIglesiasCatolicas,40.40535678997568,-3.709605191437384
+236,Templos,Parroquia San Lorenzo,CALLE DOCTOR PIGA 2.0,TemplosIglesiasCatolicas,40.40876400047908,-3.698988478197996
+238,Templos,Parroquia San Luis de los Franceses,CALLE LAGASCA 89.0,TemplosIglesiasCatolicas,40.43210965495577,-3.684764262946089
+239,Templos,Parroquia San Manuel y San Benito,CALLE ALCALA 83.0,MonumentosEdificiosArtisticos,40.420750218863205,-3.686031642144738
+240,Templos,Parroquia San Marcos,CALLE SAN LEONARDO 10.0,MonumentosEdificiosArtisticos,40.42476160196848,-3.711161786351672
+248,Templos,Parroquia San Millán y San Cayetano,CALLE EMBAJADORES 15.0,MonumentosEdificiosArtisticos,40.4094729629138,-3.7057888475454654
+249,Templos,Parroquia San Nicolás de Bari. Personal de Habla Italiana,PLAZA SAN NICOLAS 6.0,MonumentosEdificiosArtisticos,40.41580351287492,-3.711860715651833
+252,Templos,Parroquia San Patricio,CALLE ALEJANDRO GONZALEZ 12.0,TemplosIglesiasCatolicas,40.42954291579896,-3.662936103496482
+265,Templos,Parroquia San Ricardo,CALLE GAZTAMBIDE 22.0,TemplosIglesiasCatolicas,40.43344115593366,-3.715502766339175
+268,Templos,Parroquia San Sebastián,CALLE ATOCHA 39.0,TemplosIglesiasCatolicas,40.41351413044357,-3.701455018243193
+273,Templos,Parroquia San Vicente Ferrer,CALLE IBIZA 43.0,TemplosIglesiasCatolicas,40.41824352982154,-3.672524774515708
+278,Templos,Parroquia Santa Bárbara,CALLE GENERAL CASTA&amp;Ntilde;OS 2.0,MonumentosEdificiosArtisticos,40.42428879388528,-3.6940873878242177
+283,Templos,Parroquia Santa Catalina de Siena,CALLE JUAN DE URBIETA 57.0,TemplosIglesiasCatolicas,40.40867560548655,-3.674124286973336
+287,Templos,Parroquia Santa Cruz,CALLE ATOCHA 6.0,MonumentosEdificiosArtisticos,40.41461498641368,-3.7052543046190265
+288,Templos,Parroquia Santa Elena,CALLE ORFILA 1.0,TemplosIglesiasCatolicas,40.42744270095028,-3.693350948021676
+307,Templos,Parroquia Santa María del Monte Carmelo,CALLE AYALA 35.0,TemplosIglesiasCatolicas,40.42777344783278,-3.683314692639447
+309,Templos,Parroquia Santa María del Pilar,CALLE REYES MAGOS 3.0,TemplosIglesiasCatolicas,40.41209963778029,-3.674177783981407
+312,Templos,Parroquia Santa María del Silencio,CALLE RAIMUNDO FERNANDEZ VILLAVERDE 18.0,TemplosIglesiasCatolicas,40.44648359531944,-3.701076340745981
+319,Templos,Parroquia Santa María la Real de la Almudena,CALLE MAYOR 90.0,TemplosIglesiasCatolicas,40.41521400641528,-3.7142198546445178
+326,Templos,Parroquia Santa Mónica,CALLE PRINCIPE DE VERGARA 87.0,TemplosIglesiasCatolicas,40.43628582493575,-3.679425614663357
+328,Templos,Parroquia Santa Rita,CALLE GAZTAMBIDE 75.0,TemplosIglesiasCatolicas,40.4384630365298,-3.715373600997535
+333,Templos,Parroquia Santa Teresa y Santa Isabel,GLORIETA PINTOR SOROLLA 2.0,TemplosIglesiasCatolicas,40.43508484912096,-3.699144252083392
+336,Templos,Parroquia Santiago el Mayor y Nuestra Señora de las Cruces,CALLE SANTA CRUZ DE MARCENADO 11.0,TemplosIglesiasCatolicas,40.428666890728586,-3.708544382177693
+337,Templos,Parroquia Santiago y San Juan Bautista,PLAZA SANTIAGO 24.0,MonumentosEdificiosArtisticos,40.41652094046158,-3.71082961411181
+341,Templos,Parroquia Santísimo Cristo de la Salud,CALLE AYALA 12.0,TemplosIglesiasCatolicas,40.4278403038997,-3.688143159503323
+342,Templos,Parroquia Santísimo Cristo de la Victoria,CALLE BLASCO DE GARAY 33.0,TemplosIglesiasCatolicas,40.43357200340626,-3.7116729107849338
+345,Templos,Parroquia Santísimo Sacramento,CALLE ALCALDE SAINZ DE BARANDA 3.0,TemplosIglesiasCatolicas,40.41716819010977,-3.677527566891112
+347,Templos,Parroquia Santo Cristo del Olivar,CALLE CAÑIZARES 4.0,TemplosIglesiasCatolicas,40.41311305755016,-3.701661239285269
+351,Templos,Parroquia Santo Niño de Cebu,CALLE LUCIO DEL VALLE 4.0,TemplosIglesiasCatolicas,40.44009780260985,-3.7075286706134185
+356,Templos,Parroquia Santos Inocentes,CALLE EMBAJADORES 209.0,TemplosIglesiasCatolicas,40.38711705327618,-3.690326402948042
+362,Templos,Parroquia Virgen de La Paloma y San Pedro el Real,CALLE TOLEDO 98.0,TemplosIglesiasCatolicas,40.40814643301144,-3.71105876199766
+363,Templos,Parroquia Virgen de La Providencia y San Cayetano,CALLE FERRER DEL RIO 18.0,TemplosIglesiasCatolicas,40.43445285030887,-3.671875680212725
+372,Templos,Parroquia Virgen Peregrina,CALLE DIEGO DE LEON 36.0,TemplosIglesiasCatolicas,40.43469645569208,-3.681112701529585
+374,Templos,Primer Monasterio de la Visitación (Las Salesas),CALLE SANTA ENGRACIA 20.0,TemplosIglesiasCatolicas,40.43023663253445,-3.696489663156585
+375,Templos,Real Basílica Nuestra Señora de Atocha,CALLE JULIAN GAYARRE 1.0,TemplosIglesiasCatolicas,40.40572931570451,-3.683250455796072
+376,Templos,Real Basílica San Francisco el Grande,CALLE SAN BUENAVENTURA 1.0,MonumentosEdificiosArtisticos,40.41084698628934,-3.714492963837602
+377,Templos,Real Monasterio de la Encarnación,PLAZA ENCARNACION 1.0,MonumentosEdificiosArtisticos,40.4196839293774,-3.711560958403125
+378,Templos,Real Monasterio de las Descalzas Reales,PLAZA DESCALZAS 3.0,MonumentosEdificiosArtisticos,40.4182401043926,-3.7062038988539383
+379,Templos,Real Monasterio de Santa Isabel,CALLE SANTA ISABEL 48.0,MonumentosEdificiosArtisticos,40.409468201532654,-3.696232255860979
+380,Templos,Real Oratorio del Caballero de Gracia,CALLE GRAN VIA 17.0,MonumentosEdificiosArtisticos,40.419825650016925,-3.700658667700744
+383,Templos,Segundo Monasterio de la Visitación (Las Salesas),CALLE SAN BERNARDO 72.0,TemplosIglesiasCatolicas,40.42746721104701,-3.7061947752116815
+384,Templos,Templo Eucarístico de San Martín de Tours,CALLE DESENGA&amp;Ntilde;O 26.0,TemplosIglesiasCatolicas,40.42121388940078,-3.704640115594696
+385,Templos,Tercer Monasterio de la Visitación (Servidoras del Señor y de la Virgen de Matará),PASEO SAN FRANCISCO DE SALES 48.0,TemplosIglesiasCatolicas,40.44360221440594,-3.710744913298676
